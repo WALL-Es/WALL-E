@@ -50,11 +50,18 @@ And we are still searching but that's it for these 2.5 hours.
 ### Entry:
 First day working with Nader horray i guess, it feels weird discussing the same project with someone else. We brainstormed for a bit then decided to build WALL-E a fully autonomous robot i think we would work on it for the whole 8 weeks. Nader started a figma and sent it to me so i started preparing the mind map i guess.
 I began looking for already made clones to get the idea and understand what are we gonna do i found this project on instructables [2008 Clone](https://www.instructables.com/Build-an-autonomous-Wall-E-Robot/) it didnt offer much actually most of the electronics used were outdated and the functions of the robot itself isnt that good. 
+
 ![alt text](Images/Journal/2008%20walle.png)
 
+Actually the design of it is quite good however i found another clone that is way better and way wayyyy more complex. [The main clone](https://www.youtube.com/watch?v=r7WV-IAMnDo)
+This version is way better regarding the 3d model it uses 7 servos for arm, neck, and eyes.
+Altough i think there will be some changes in the design i want to make however this is a very good start.
+![alt text](Images/Journal/Walle%20.png)
+
+
 ### Recording links: 
-
-
+- https://lapse.hackclub.com/timelapse/B3YAmoDpvFuT
+- https://lapse.hackclub.com/timelapse/6B3niGL5X6WF
 
 ## Day  [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
