@@ -80,3 +80,125 @@ Found that we can use an IMU, and also 2 ultrasonic, one from the back and one f
 
 
 ### Recording links: 
+
+
+
+## Day 2 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+
+
+
+
+## Day 3 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 3 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+## Day 4 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 4 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+## Day 5 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 5 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+## Day 6 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 6 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
