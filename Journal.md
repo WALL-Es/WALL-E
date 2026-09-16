@@ -63,7 +63,7 @@ Altough i think there will be some changes in the design i want to make however 
 - https://lapse.hackclub.com/timelapse/B3YAmoDpvFuT
 - https://lapse.hackclub.com/timelapse/6B3niGL5X6WF
 
-## Day  [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+## Day 2 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 15/9/2026
 - **Total hours spent:** 2.3 hours
@@ -87,11 +87,20 @@ After finding out about the simulation and the ROS2, i also started searching mo
 Found that we can use an IMU, and also 2 ultrasonic, one from the back and one from the front.
 
 
+and polished the figma a lil. 
 
+![alt text](/Images/Journal/Sensors.png)
+
+And that's if for this figjam (my part), here you are the full figma.
+
+![alt text](/Images/Journal/Fullfig.png)
+
+And after that, i started my kicad project and started make some pages and adding some components to the ESP32-s3 page, but i stoped after that and will continue in the next session.
 
 ### Recording links: 
+- https://lapse.hackclub.com/timelapse/Nfs9XLhcbCvm
 
-
+------------------------------
 
 ## Day 2 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
