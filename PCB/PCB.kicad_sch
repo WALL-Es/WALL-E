@@ -2,7 +2,6 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-<<<<<<< HEAD
 	(uuid "ce714510-8789-438c-9780-97c7c26e78af")
 	(paper "A4")
 	(lib_symbols)
@@ -282,19 +281,10 @@
 			)
 		)
 	)
-=======
-	(uuid ce714510-8789-438c-9780-97c7c26e78af)
-	(paper "A4")
-	(lib_symbols)
->>>>>>> main
 	(sheet_instances
 		(path "/"
 			(page "1")
 		)
 	)
 	(embedded_fonts no)
-<<<<<<< HEAD
 )
-=======
-)
->>>>>>> main
