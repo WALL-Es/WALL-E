@@ -27,6 +27,7 @@
   "cvpcb": {
     "equivalence_files": []
   },
+<<<<<<< HEAD
   "erc": {
     "erc_exclusions": [],
     "meta": {
@@ -251,6 +252,8 @@
       "wire_dangling": "error"
     }
   },
+=======
+>>>>>>> main
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
@@ -299,6 +302,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
+<<<<<<< HEAD
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
@@ -449,6 +453,14 @@
       "Dashboard"
     ]
   ],
+=======
+    "bus_aliases": {},
+    "legacy_lib_dir": "",
+    "legacy_lib_list": [],
+    "top_level_sheets": []
+  },
+  "sheets": [],
+>>>>>>> main
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
