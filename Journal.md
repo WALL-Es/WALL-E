@@ -95,15 +95,28 @@ Found that we can use an IMU, and also 2 ultrasonic, one from the back and one f
 
 ## Day 2 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
-- **Date:** 
-- **Total hours spent:** 
+- **Date:** 15/9/2026
+- **Total hours spent:** 3.2 hours  
 
 ### Entry:
+I started this day with reviewing the last video and making a full mind map to using figma i started with the Eyes components and connection as shown in the image in which it the left eye would hold the camera with the pi zero 2w i thinkk .... i hadnt get quite sure about it yett actually. The right eye would hold the microphone and thats it, for the movement im using two servos for the movment of the right and left eye up and down it would move in cicuilar motion.
+
+![alt text](/Images/Journal/Eye%20map.png)
+
+For the track and movement that where it gets tricky in which it uses alot of parts to form the whole motion not the simple one which is two gears and track connecting them this one forms the shape of a triangle in which there are three gears with a track around it the track itslef is formed from small parts conncted to each other with smaller connectores 
+
+![alt text](/Images/Journal/Track.png)
+
+The neck uses two servos one for the y-axis and one for the x-axis which acts like a robotic arm and the body itself isnt that hard to be honest i just need to make sure that there is space for the pcb mounting and screen space on the front as well as an open and close compartment.
+
+![alt text](/Images/Journal/Body%20and%20neck.png)
+
+This is the whole [figma](https://www.figma.com/board/f0VK2TiKBMFvHDcY7YVH4b/WALL-E?node-id=0-1&p=f&t=AjgSqVmfp2gSIqVG-0) 
+
 
 ### Recording links: 
-
-
-
+- https://lapse.hackclub.com/timelapse/i-zrSsbCG7CH
+- https://lapse.hackclub.com/timelapse/cxqHd1hT7iQd
 
 
 
