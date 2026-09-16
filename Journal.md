@@ -8,7 +8,7 @@
 
 ## Day 1 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
-- **Date:** 15/9/2026
+- **Date:** 14/9/2026
 - **Total hours spent:** 2.5 hours
 
 ### Entry:
@@ -40,3 +40,167 @@ And we are still searching but that's it for these 2.5 hours.
 ### Recording links: 
 - https://lapse.hackclub.com/timelapse/BbDoTyLWUVCc
 - https://lapse.hackclub.com/timelapse/BIIMvZWpS5dI
+
+
+## Day 1 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+## Day 2 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 15/9/2026
+- **Total hours spent:** 2 hours
+
+### Entry:
+
+WO, umm the second day, Well i kept searching for the remaining things that we need to add in the circuit and the firmware.
+
+Searched for the things we will add without copying, like the ROS2, and the Isaac sim from Nvidia. 
+
+the IMU sensor, and tid up the figjam.
+
+um, for the Isaac sim, i was searching on how we will connect all of that in a simulation 'cause we don't know how to use ROS2 without buliding IRL, So i got many options but choosed Isaac sim 'cause it is from Nvidia and i have an Nvidia graphics card so it will be helpful. 
+
+Also found something called Omnigraph nodes, it is something like gamemaker's nocode programing system, it uses nodes like it. and we can make custom omnigraph nodes to make them communicate with the ESP for examble. 
+
+![alt text](/Images/Journal/Isaac.png)
+
+After finding out about the simulation and the ROS2, i also started searching more about the sensor, and what are we missing.
+
+Found that we can use an IMU, and also 2 ultrasonic, one from the back and one from the front.
+
+and polished the figma a lil. 
+
+![alt text](/Images/Journal/Sensors.png)
+
+And that's if for this figjam (my part), here you are the full figma.
+
+![alt text](/Images/Journal/Fullfig.png)
+
+And after that, i started my kicad project and started make some pages and adding some components to the ESP32-s3 page, but i stoped after that and will continue in the next session.
+
+### Recording links: 
+- https://lapse.hackclub.com/timelapse/Nfs9XLhcbCvm
+
+
+## Day 2 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+## Day 3 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 3 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+## Day 4 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 4 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+## Day 5 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 5 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+## Day 6 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
+
+
+
+
+
+
+
+## Day 6 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 
+- **Total hours spent:** 
+
+### Entry:
+
+### Recording links: 
