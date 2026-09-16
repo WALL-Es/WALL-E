@@ -416,7 +416,11 @@
         "uuid": "ce714510-8789-438c-9780-97c7c26e78af"
       }
     ],
+<<<<<<< HEAD
     "used_designators": "R1-9,J1-2,#PWR1-12,D1-9,C1-12,SW1-3,U1,U3",
+=======
+    "used_designators": "R1-2,J1,D1-4",
+>>>>>>> PCB
     "variants": []
   },
   "sheets": [
