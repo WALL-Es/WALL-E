@@ -44,19 +44,22 @@ And we are still searching but that's it for these 2.5 hours.
 
 ## Day 1 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
-- **Date:** 
-- **Total hours spent:** 
+- **Date:** 14/9/2026
+- **Total hours spent:** 2 hours
 
 ### Entry:
+First day working with Nader horray i guess, it feels weird discussing the same project with someone else. We brainstormed for a bit then decided to build WALL-E a fully autonomous robot i think we would work on it for the whole 8 weeks. Nader started a figma and sent it to me so i started preparing the mind map i guess.
+I began looking for already made clones to get the idea and understand what are we gonna do i found this project on instructables [2008 Clone](https://www.instructables.com/Build-an-autonomous-Wall-E-Robot/) it didnt offer much actually most of the electronics used were outdated and the functions of the robot itself isnt that good. 
+![alt text](Images/Journal/2008%20walle.png)
 
 ### Recording links: 
 
 
 
-## Day 2 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+## Day  [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 15/9/2026
-- **Total hours spent:** 2 hours
+- **Total hours spent:** 2.3 hours
 
 ### Entry:
 
@@ -76,18 +79,11 @@ After finding out about the simulation and the ROS2, i also started searching mo
 
 Found that we can use an IMU, and also 2 ultrasonic, one from the back and one from the front.
 
-and polished the figma a lil. 
 
-![alt text](/Images/Journal/Sensors.png)
 
-And that's if for this figjam (my part), here you are the full figma.
-
-![alt text](/Images/Journal/Fullfig.png)
-
-And after that, i started my kicad project and started make some pages and adding some components to the ESP32-s3 page, but i stoped after that and will continue in the next session.
 
 ### Recording links: 
-- https://lapse.hackclub.com/timelapse/Nfs9XLhcbCvm
+
 
 
 ## Day 2 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
@@ -98,6 +94,11 @@ And after that, i started my kicad project and started make some pages and addin
 ### Entry:
 
 ### Recording links: 
+
+
+
+
+
 
 
 
