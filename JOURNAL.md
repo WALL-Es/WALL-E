@@ -1,6 +1,6 @@
 # WALL-E
 
-> **Contributors:** 
+> **Contributors:**
 > - [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 > - [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
@@ -37,10 +37,9 @@ but i won't just copy it, tbh we need to learn more in this journey, so we will 
 
 And we are still searching but that's it for these 2.5 hours.
 
-### Recording links: 
+### Recording links:
 - https://lapse.hackclub.com/timelapse/BbDoTyLWUVCc
 - https://lapse.hackclub.com/timelapse/BIIMvZWpS5dI
-
 
 ## Day 1 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
@@ -48,6 +47,7 @@ And we are still searching but that's it for these 2.5 hours.
 - **Total hours spent:** 2 hours
 
 ### Entry:
+
 First day working with Nader horray i guess, it feels weird discussing the same project with someone else. We brainstormed for a bit then decided to build WALL-E a fully autonomous robot i think we would work on it for the whole 8 weeks. Nader started a figma and sent it to me so i started preparing the mind map i guess.
 I began looking for already made clones to get the idea and understand what are we gonna do i found this project on instructables [2008 Clone](https://www.instructables.com/Build-an-autonomous-Wall-E-Robot/) it didnt offer much actually most of the electronics used were outdated and the functions of the robot itself isnt that good. 
 
@@ -58,10 +58,11 @@ This version is way better regarding the 3d model it uses 7 servos for arm, neck
 Altough i think there will be some changes in the design i want to make however this is a very good start.
 ![alt text](Images/Journal/Walle%20.png)
 
-
-### Recording links: 
+### Recording links:
 - https://lapse.hackclub.com/timelapse/B3YAmoDpvFuT
 - https://lapse.hackclub.com/timelapse/6B3niGL5X6WF
+
+------------------------------
 
 ## Day 2 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
@@ -97,17 +98,16 @@ And that's if for this figjam (my part), here you are the full figma.
 
 And after that, i started my kicad project and started make some pages and adding some components to the ESP32-s3 page, but i stoped after that and will continue in the next session.
 
-### Recording links: 
+### Recording links:
 - https://lapse.hackclub.com/timelapse/Nfs9XLhcbCvm
-
-------------------------------
 
 ## Day 2 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
 - **Date:** 15/9/2026
-- **Total hours spent:** 3.2 hours  
+- **Total hours spent:** 3.2 hours
 
 ### Entry:
+
 I started this day with reviewing the last video and making a full mind map to using figma i started with the Eyes components and connection as shown in the image in which it the left eye would hold the camera with the pi zero 2w i thinkk .... i hadnt get quite sure about it yett actually. The right eye would hold the microphone and thats it, for the movement im using two servos for the movment of the right and left eye up and down it would move in cicuilar motion.
 
 ![alt text](/Images/Journal/Eye%20map.png)
@@ -120,13 +120,26 @@ The neck uses two servos one for the y-axis and one for the x-axis which acts li
 
 ![alt text](/Images/Journal/Body%20and%20neck.png)
 
-This is the whole [figma](https://www.figma.com/board/f0VK2TiKBMFvHDcY7YVH4b/WALL-E?node-id=0-1&p=f&t=AjgSqVmfp2gSIqVG-0) 
+This is the whole [figma](https://www.figma.com/board/f0VK2TiKBMFvHDcY7YVH4b/WALL-E?node-id=0-1&p=f&t=AjgSqVmfp2gSIqVG-0)
 
-
-### Recording links: 
+### Recording links:
 - https://lapse.hackclub.com/timelapse/i-zrSsbCG7CH
 - https://lapse.hackclub.com/timelapse/cxqHd1hT7iQd
 
+------------------------------
+
+## Day 3 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 16/9/2026
+- **Total hours spent:** 5.4
+
+### Entry:
+
+TESTING Site with a real Commit
 
 
+<img src="https://cdn.hackclub.com/01a0af3d-f4b9-78c3-97f8-77284a1e9cf2/pasted-image-0.jpeg" alt="pasted-image-0.jpeg" width="500" height="500">
 
+### Recording links:
+- [Finished another Amp & DC motor drivers · 2h 12m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/Qo54ww1bt61t)
+- [Finished ESP & 1 amplifier · 1h 58m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/P7H9uDIHuwvh)
