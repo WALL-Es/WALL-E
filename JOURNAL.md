@@ -131,17 +131,49 @@ This is the whole [figma](https://www.figma.com/board/f0VK2TiKBMFvHDcY7YVH4b/WAL
 ## Day 3 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 16/9/2026
-- **Total hours spent:** 5.4 houra
+- **Total hours spent:** 5.4 hours
 
 ### Entry:
 
-TESTING Site with a real Commit
+UHHH, well i took the whole 5 hours today to finish this week quickly so i can SIP (Study in peace). 
 
+Ummm, OKkk i started with the ESP32-s3 in the schemaitc, and tbh, i did this before, i was about to replicate it slowly but naah, i just copied it from my old project.
 
-<img src="https://cdn.hackclub.com/01a0af3d-f4b9-78c3-97f8-77284a1e9cf2/pasted-image-0.jpeg" alt="pasted-image-0.jpeg" width="500" height="500">
+<img src="https://cdn.hackclub.com/01a0aff7-8101-70a4-83af-7b7c80666e64/Screenshot_2026-09-17_182312.png" alt="Screenshot_2026-09-17_182312.png" width="700" height="0">
 
+So after that, i started with the amplifier module, as i said before (ig) that i need to impliment all the modules in the PCB, like fully integirated and not just modules, So i started searching for the amplifer schematic everywhere, and found two option.
 
-Checking if there are any conflicts when edtiingg old entry
+stereo and mono, but i prefered the stereo tbh, so i got the PCB and Schem from adafruit. and tried to reverse engineer it to catch all the components. 
+
+And vola i got it done.
+
+<img src="https://cdn.hackclub.com/01a0b005-534a-712c-bfe4-901963a76ba8/Screenshot_2026-09-17_183038.png" alt="Screenshot_2026-09-17_183038.png" width="700" height="0">
+
+it wasn't easy tbh, as i needed to lookk into the three images of this amplifer (PCB, Schematic, and even the 3D & IRL component).
+
+As there were many smd components that i don't know where they are like this 2 pads solder jumper.
+
+<img src="https://cdn.hackclub.com/01a0b011-6332-76bc-91a4-87be921befa1/image__4_.png" alt="image__4_.png" width="100" height="0">
+
+After that I started a new recording 'cause we wanted to calculate how so far we reached.
+
+I finished the second channel amplifer and this is the FULL ampliifer image.
+
+<img src="https://cdn.hackclub.com/01a0b012-61a3-78d0-a87f-2dd1a2fa7742/Screenshot_2026-09-17_185300.png" alt="Screenshot_2026-09-17_185300.png" width="300" height="0">
+
+After the amplifer, i started working on the DC motor driver, BRUUUUUUh i took so much time trying to figure out what iam facing.
+
+I really didn't find any clear PCB design of it but i found a Schematic, and also the IRL component from the back and the front.
+
+This component FR made me reverse engineeer hardware, i really took so much time trying to figre out how it works. 
+
+But the surpirse was that i was thinking for this whole time that it is dual channel Motor driver, and found out that it is just one channel, and i was super overwhelmed. so basicly i just made its schematic too and duplicated it. so i got this final version.
+
+<img src="https://cdn.hackclub.com/01a0b013-d7e5-795d-a9b5-25dd7b88fc72/Screenshot_2026-09-17_185433.png" alt="Screenshot_2026-09-17_185433.png" width="600" height="0">
+
+After i finished this component i reached my 10 hours for this week, so YAYYAY iam gonna study finally for the rest of the week.
+
+That's it, thx.
 
 ### Recording links:
 - [Finished another Amp & DC motor drivers · 2h 12m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/Qo54ww1bt61t)
