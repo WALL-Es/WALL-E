@@ -196,3 +196,21 @@ I finished the figma mindmap so decided to go for the next stage which is 3D mod
 - [3d model start · 1h 25m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/R1QRREZ-F8Nh)
 
 ------------------------------
+
+## Day 4 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 17/9/2026
+- **Total hours spent:** 0.4 hours
+
+### Entry:
+
+Yesterday i was stressing about the eye dimensions what so ever, i found that i can change the 3md file to stl so i can open it using solidworks, so i decided to open the file on solidworks and measure out the dimensions i needed so i can design my own walle eye.
+I decided to use in connecting parts with each others M3 screws with a dimensions of 5 ml for the head 3 ml for the rest of the screw and a total length of 15ml this is supposed to be perfect i guesss we will seee. I also took a look at the 2008 walle where the design is impressive and i decided to add my touch in the eye. i just hope that all parts would be good to assemble. i finished the huddle with nader after this i think this is it for this week. 
+<img src="https://cdn.hackclub.com/01a0b12b-21c1-7f95-ab33-808b6056448c/Screenshot_2026-09-17_190210.png" alt="Screenshot_2026-09-17_190210.png" width="1280" height="1280">
+
+I LOVE WALL-E
+
+### Recording links:
+- [left eye finish · 40m · Sep 17, 2026](https://lapse.hackclub.com/timelapse/tFEgx5JB15S5)
+
+------------------------------
