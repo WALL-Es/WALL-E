@@ -187,8 +187,8 @@ That's it, thx.
 ### Entry:
 
 I finished the figma mindmap so decided to go for the next stage which is 3D modeling, i actually was thinking yeah it cant be that hard i quickly changes my mind after i decided to start modeling one of walle's eyes.(ONLY ONE !!) i was in a huddle with nader at least i wasnt alone when i was crying. I spend the whole hour figuring out the dimensions of the eye where the clone i was following isnt listed as open source so there were no way i can figure out the dimensions without estimating it.
+<img src="https://cdn.hackclub.com/01a0b12d-5377-7f85-971c-4b76afc37132/Screenshot_2026-09-17_190215.png" alt="Screenshot_2026-09-17_190215.png" width="720" height="720">
 
-<img src="https://cdn.hackclub.com/01a0aff3-65f9-74d0-bf0c-3526cac39c4d/Screenshot_2026-09-17_181818.png" alt="Screenshot_2026-09-17_181818.png" width="720" height="1280">
 
   Howeverrrr, he listed the 3md file which gave me a clue about the scale there was no way i could have figured that on my own. So i opened onshape and began invistigating the 3d files and i got to a point where i was pretty sure about the dimensions of the eye. After sometime i skipped the eye design and got to one of body sides.
 
