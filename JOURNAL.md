@@ -131,7 +131,7 @@ This is the whole [figma](https://www.figma.com/board/f0VK2TiKBMFvHDcY7YVH4b/WAL
 ## Day 3 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 16/9/2026
-- **Total hours spent:** 5.4
+- **Total hours spent:** 5.4 houra
 
 ### Entry:
 
@@ -139,6 +139,9 @@ TESTING Site with a real Commit
 
 
 <img src="https://cdn.hackclub.com/01a0af3d-f4b9-78c3-97f8-77284a1e9cf2/pasted-image-0.jpeg" alt="pasted-image-0.jpeg" width="500" height="500">
+
+
+Checking if there are any conflicts when edtiingg old entry
 
 ### Recording links:
 - [Finished another Amp & DC motor drivers · 2h 12m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/Qo54ww1bt61t)
