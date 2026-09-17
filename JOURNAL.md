@@ -146,3 +146,21 @@ Checking if there are any conflicts when edtiingg old entry
 ### Recording links:
 - [Finished another Amp & DC motor drivers · 2h 12m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/Qo54ww1bt61t)
 - [Finished ESP & 1 amplifier · 1h 58m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/P7H9uDIHuwvh)
+
+## Day 3 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 16/9/2026
+- **Total hours spent:** 1.25 hours
+
+### Entry:
+
+I finished the figma mindmap so decided to go for the next stage which is 3D modeling, i actually was thinking yeah it cant be that hard i quickly changes my mind after i decided to start modeling one of walle's eyes.(ONLY ONE !!) i was in a huddle with nader at least i wasnt alone when i was crying. I spend the whole hour figuring out the dimensions of the eye where the clone i was following isnt listed as open source so there were no way i can figure out the dimensions without estimating it.
+
+<img src="https://cdn.hackclub.com/01a0aff3-65f9-74d0-bf0c-3526cac39c4d/Screenshot_2026-09-17_181818.png" alt="Screenshot_2026-09-17_181818.png" width="720" height="1280">
+
+  Howeverrrr, he listed the 3md file which gave me a clue about the scale there was no way i could have figured that on my own. So i opened onshape and began invistigating the 3d files and i got to a point where i was pretty sure about the dimensions of the eye. After sometime i skipped the eye design and got to one of body sides.
+
+### Recording links:
+- [3d model start · 1h 25m · Sep 16, 2026](https://lapse.hackclub.com/timelapse/R1QRREZ-F8Nh)
+
+------------------------------
