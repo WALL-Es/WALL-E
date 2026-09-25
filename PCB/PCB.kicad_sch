@@ -144,52 +144,6 @@
 		)
 	)
 	(sheet
-		(at 191.77 19.05)
-		(size 27.94 45.72)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "a699217a-33be-440f-9266-4f50c54bc469")
-		(property "Sheetname" "ESP32-S3"
-			(at 191.77 18.3384 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "ESP32-S3.kicad_sch"
-			(at 191.77 65.3546 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB"
-				(path "/ce714510-8789-438c-9780-97c7c26e78af"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 119.38 17.78)
 		(size 46.99 48.26)
 		(exclude_from_sim no)
