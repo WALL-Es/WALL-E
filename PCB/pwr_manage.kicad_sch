@@ -850,6 +850,194 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Switch:SW_DPST_x2"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_DPST_x2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch lever"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_DPST_x2_0_0"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 0.254) (xy 1.524 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_DPST_x2_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SW_DPST_x2_2_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "WALL-E_symbols:MP1584EN-LF-Z"
 			(pin_names
 				(offset 0.254)
@@ -2135,16 +2323,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 67.31) (xy 199.39 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "596fa55c-86e1-4d6b-b4c7-afac7236cb12")
-	)
-	(wire
-		(pts
 			(xy 177.8 83.82) (xy 180.34 83.82)
 		)
 		(stroke
@@ -2222,6 +2400,16 @@
 			(type default)
 		)
 		(uuid "6ee054bd-284c-487b-9973-547a216764c5")
+	)
+	(wire
+		(pts
+			(xy 179.07 67.31) (xy 186.69 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7049bfa5-1215-4fdc-af06-528da559f77b")
 	)
 	(wire
 		(pts
@@ -2663,6 +2851,16 @@
 		)
 		(uuid "f42a420c-a253-4768-870b-aef9895c3215")
 	)
+	(wire
+		(pts
+			(xy 196.85 67.31) (xy 199.39 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff4196d6-c113-4cbf-b73b-dd53034bf9a1")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 96.52 95.25 0)
@@ -2970,6 +3168,92 @@
 			(project "PCB"
 				(path "/ce714510-8789-438c-9780-97c7c26e78af/cf1faa47-3100-4a18-98c2-24423d277f27"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_DPST_x2")
+		(at 191.77 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24a29653-7f2b-4f4a-9231-c78e68bc608b")
+		(property "Reference" "SW4"
+			(at 191.77 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Main_Power-SW"
+			(at 191.77 63.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
+			(at 191.77 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "55a826b8-8321-41e4-a1ce-13382dc92153")
+		)
+		(pin "2"
+			(uuid "da037956-7d67-4981-8a01-5fa0984f4bf0")
+		)
+		(pin "3"
+			(uuid "87aaa11b-d49c-459f-9424-5ffb9731ff02")
+		)
+		(pin "4"
+			(uuid "0352a6a9-11a1-46dc-b332-d0e6f4b74658")
+		)
+		(instances
+			(project "PCB"
+				(path "/ce714510-8789-438c-9780-97c7c26e78af/cf1faa47-3100-4a18-98c2-24423d277f27"
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -6278,7 +6562,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 191.77 67.31 0)
+		(at 179.07 67.31 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6289,7 +6573,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb811af5-75e3-47c6-9f59-a84ff00c66f0")
 		(property "Reference" "#PWR0105"
-			(at 191.77 71.12 0)
+			(at 179.07 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6300,7 +6584,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 191.77 62.23 0)
+			(at 179.07 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6310,7 +6594,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 67.31 0)
+			(at 179.07 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6321,7 +6605,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 67.31 0)
+			(at 179.07 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6332,7 +6616,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 191.77 67.31 0)
+			(at 179.07 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
