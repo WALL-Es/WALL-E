@@ -1092,9 +1092,31 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Serial connected ESP32-S3 & RasPi Zero 2w"
+		(exclude_from_sim no)
+		(at 71.12 62.23 0)
+		(size 161.29 73.66)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.286 2.286)
+				(thickness 0.4572)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "665f0994-31f0-438a-8863-c68732dc7db8")
+	)
 	(wire
 		(pts
-			(xy 167.64 78.74) (xy 168.91 78.74)
+			(xy 149.86 85.09) (xy 151.13 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1104,7 +1126,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 92.71) (xy 105.41 92.71)
+			(xy 86.36 99.06) (xy 87.63 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1114,7 +1136,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 123.19) (xy 201.93 121.92)
+			(xy 184.15 129.54) (xy 184.15 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1124,7 +1146,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 90.17) (xy 105.41 90.17)
+			(xy 86.36 96.52) (xy 87.63 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1134,7 +1156,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 73.66) (xy 234.95 73.66)
+			(xy 223.52 80.01) (xy 217.17 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1144,7 +1166,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 81.28) (xy 168.91 81.28)
+			(xy 149.86 87.63) (xy 151.13 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1154,7 +1176,7 @@
 	)
 	(global_label "EPI_Rx-Tx"
 		(shape input)
-		(at 167.64 78.74 180)
+		(at 149.86 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1166,7 +1188,7 @@
 		)
 		(uuid "407d1386-c5f3-4c37-a013-cf8b9955d391")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 154.3212 78.74 0)
+			(at 136.5412 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1180,7 +1202,7 @@
 	)
 	(global_label "EPI_Tx-Rx"
 		(shape input)
-		(at 167.64 81.28 180)
+		(at 149.86 87.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1192,7 +1214,7 @@
 		)
 		(uuid "51b59adb-bf3a-45c8-9876-bec11400bcdf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 154.3212 81.28 0)
+			(at 136.5412 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1206,7 +1228,7 @@
 	)
 	(global_label "EPI_Tx-Rx"
 		(shape input)
-		(at 104.14 90.17 180)
+		(at 86.36 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1218,7 +1240,7 @@
 		)
 		(uuid "527f9dd8-9e51-4ff0-aa66-747cadf6347e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.8212 90.17 0)
+			(at 73.0412 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1232,7 +1254,7 @@
 	)
 	(global_label "EPI_Rx-Tx"
 		(shape input)
-		(at 104.14 92.71 180)
+		(at 86.36 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1244,7 +1266,7 @@
 		)
 		(uuid "c4367870-77af-4816-9c3a-fcf687d07482")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.8212 92.71 0)
+			(at 73.0412 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1258,7 +1280,7 @@
 	)
 	(hierarchical_label "GPIO0"
 		(shape input)
-		(at 234.95 78.74 0)
+		(at 217.17 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1269,7 +1291,7 @@
 	)
 	(hierarchical_label "RGB"
 		(shape bidirectional)
-		(at 133.35 115.57 0)
+		(at 115.57 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1280,7 +1302,7 @@
 	)
 	(hierarchical_label "E-RST"
 		(shape input)
-		(at 105.41 72.39 180)
+		(at 87.63 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1291,7 +1313,7 @@
 	)
 	(hierarchical_label "ESP32_3v3"
 		(shape output)
-		(at 105.41 69.85 180)
+		(at 87.63 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1302,7 +1324,7 @@
 	)
 	(hierarchical_label "GPIO27"
 		(shape input)
-		(at 168.91 116.84 180)
+		(at 151.13 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1313,7 +1335,7 @@
 	)
 	(hierarchical_label "GPIO23"
 		(shape input)
-		(at 168.91 106.68 180)
+		(at 151.13 113.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1324,7 +1346,7 @@
 	)
 	(hierarchical_label "E-GPIO48"
 		(shape bidirectional)
-		(at 133.35 113.03 0)
+		(at 115.57 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1335,7 +1357,7 @@
 	)
 	(hierarchical_label "E-GPIO40"
 		(shape bidirectional)
-		(at 133.35 85.09 0)
+		(at 115.57 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1346,7 +1368,7 @@
 	)
 	(hierarchical_label "GPIO12"
 		(shape input)
-		(at 168.91 71.12 180)
+		(at 151.13 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1357,7 +1379,7 @@
 	)
 	(hierarchical_label "GPIO10"
 		(shape input)
-		(at 234.95 111.76 0)
+		(at 217.17 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1368,7 +1390,7 @@
 	)
 	(hierarchical_label "GPIO11"
 		(shape input)
-		(at 234.95 114.3 0)
+		(at 217.17 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1379,7 +1401,7 @@
 	)
 	(hierarchical_label "GPIO22"
 		(shape input)
-		(at 168.91 104.14 180)
+		(at 151.13 110.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1390,7 +1412,7 @@
 	)
 	(hierarchical_label "GPIO5"
 		(shape input)
-		(at 234.95 96.52 0)
+		(at 217.17 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1401,7 +1423,7 @@
 	)
 	(hierarchical_label "0TX"
 		(shape bidirectional)
-		(at 133.35 69.85 0)
+		(at 115.57 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1412,7 +1434,7 @@
 	)
 	(hierarchical_label "GPIO17"
 		(shape input)
-		(at 168.91 88.9 180)
+		(at 151.13 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1423,7 +1445,7 @@
 	)
 	(hierarchical_label "GPIO19"
 		(shape input)
-		(at 168.91 93.98 180)
+		(at 151.13 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1434,7 +1456,7 @@
 	)
 	(hierarchical_label "GPIO13"
 		(shape input)
-		(at 168.91 73.66 180)
+		(at 151.13 80.01 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1445,7 +1467,7 @@
 	)
 	(hierarchical_label "E-GPIO9"
 		(shape bidirectional)
-		(at 105.41 102.87 180)
+		(at 87.63 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1456,7 +1478,7 @@
 	)
 	(hierarchical_label "GPIO24"
 		(shape input)
-		(at 168.91 109.22 180)
+		(at 151.13 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1467,7 +1489,7 @@
 	)
 	(hierarchical_label "GPIO1"
 		(shape input)
-		(at 234.95 81.28 0)
+		(at 217.17 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1478,7 +1500,7 @@
 	)
 	(hierarchical_label "E-GPIO16"
 		(shape bidirectional)
-		(at 105.41 87.63 180)
+		(at 87.63 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1489,7 +1511,7 @@
 	)
 	(hierarchical_label "E-GPIO38"
 		(shape bidirectional)
-		(at 133.35 92.71 0)
+		(at 115.57 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1500,7 +1522,7 @@
 	)
 	(hierarchical_label "E-GPIO45"
 		(shape bidirectional)
-		(at 133.35 110.49 0)
+		(at 115.57 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1511,7 +1533,7 @@
 	)
 	(hierarchical_label "E-GPIO15"
 		(shape bidirectional)
-		(at 105.41 85.09 180)
+		(at 87.63 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1522,7 +1544,7 @@
 	)
 	(hierarchical_label "GPIO3"
 		(shape input)
-		(at 234.95 88.9 0)
+		(at 217.17 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1533,7 +1555,7 @@
 	)
 	(hierarchical_label "E-GPIO3"
 		(shape bidirectional)
-		(at 105.41 97.79 180)
+		(at 87.63 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1544,7 +1566,7 @@
 	)
 	(hierarchical_label "0RX"
 		(shape bidirectional)
-		(at 133.35 72.39 0)
+		(at 115.57 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1555,7 +1577,7 @@
 	)
 	(hierarchical_label "E-GPIO21"
 		(shape bidirectional)
-		(at 133.35 87.63 0)
+		(at 115.57 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1566,7 +1588,7 @@
 	)
 	(hierarchical_label "E-GPIO42"
 		(shape bidirectional)
-		(at 133.35 80.01 0)
+		(at 115.57 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1577,7 +1599,7 @@
 	)
 	(hierarchical_label "GPIO18"
 		(shape input)
-		(at 168.91 91.44 180)
+		(at 151.13 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1588,7 +1610,7 @@
 	)
 	(hierarchical_label "E-GPIO2"
 		(shape bidirectional)
-		(at 133.35 77.47 0)
+		(at 115.57 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1599,7 +1621,7 @@
 	)
 	(hierarchical_label "E-GPIO10"
 		(shape bidirectional)
-		(at 105.41 105.41 180)
+		(at 87.63 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1610,7 +1632,7 @@
 	)
 	(hierarchical_label "E-GPIO7"
 		(shape bidirectional)
-		(at 105.41 82.55 180)
+		(at 87.63 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1621,7 +1643,7 @@
 	)
 	(hierarchical_label "E-GPIO11"
 		(shape bidirectional)
-		(at 105.41 107.95 180)
+		(at 87.63 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1632,7 +1654,7 @@
 	)
 	(hierarchical_label "E-GPIO46"
 		(shape bidirectional)
-		(at 105.41 100.33 180)
+		(at 87.63 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1643,7 +1665,7 @@
 	)
 	(hierarchical_label "E-GPIO4"
 		(shape bidirectional)
-		(at 105.41 74.93 180)
+		(at 87.63 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1654,7 +1676,7 @@
 	)
 	(hierarchical_label "E-GPIO0"
 		(shape bidirectional)
-		(at 133.35 107.95 0)
+		(at 115.57 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1665,7 +1687,7 @@
 	)
 	(hierarchical_label "GPIO7"
 		(shape input)
-		(at 234.95 104.14 0)
+		(at 217.17 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1676,7 +1698,7 @@
 	)
 	(hierarchical_label "E-GPIO5"
 		(shape bidirectional)
-		(at 105.41 77.47 180)
+		(at 87.63 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1687,7 +1709,7 @@
 	)
 	(hierarchical_label "E-GPIO14"
 		(shape bidirectional)
-		(at 105.41 115.57 180)
+		(at 87.63 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1698,7 +1720,7 @@
 	)
 	(hierarchical_label "GPIO9"
 		(shape input)
-		(at 234.95 109.22 0)
+		(at 217.17 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1709,7 +1731,7 @@
 	)
 	(hierarchical_label "E-GPIO39"
 		(shape bidirectional)
-		(at 133.35 90.17 0)
+		(at 115.57 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1720,7 +1742,7 @@
 	)
 	(hierarchical_label "E-GPIO13"
 		(shape bidirectional)
-		(at 105.41 113.03 180)
+		(at 87.63 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1731,7 +1753,7 @@
 	)
 	(hierarchical_label "GPIO21"
 		(shape input)
-		(at 168.91 99.06 180)
+		(at 151.13 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1742,7 +1764,7 @@
 	)
 	(hierarchical_label "GPIO2"
 		(shape input)
-		(at 234.95 86.36 0)
+		(at 217.17 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1753,7 +1775,7 @@
 	)
 	(hierarchical_label "GPIO25"
 		(shape input)
-		(at 168.91 111.76 180)
+		(at 151.13 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1764,7 +1786,7 @@
 	)
 	(hierarchical_label "GPIO8"
 		(shape input)
-		(at 234.95 106.68 0)
+		(at 217.17 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1775,7 +1797,7 @@
 	)
 	(hierarchical_label "E-GPIO1"
 		(shape bidirectional)
-		(at 133.35 74.93 0)
+		(at 115.57 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1786,7 +1808,7 @@
 	)
 	(hierarchical_label "GPIO6"
 		(shape input)
-		(at 234.95 99.06 0)
+		(at 217.17 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1797,7 +1819,7 @@
 	)
 	(hierarchical_label "GPIO26"
 		(shape input)
-		(at 168.91 114.3 180)
+		(at 151.13 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1808,7 +1830,7 @@
 	)
 	(hierarchical_label "E-GPIO8"
 		(shape bidirectional)
-		(at 105.41 95.25 180)
+		(at 87.63 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1819,7 +1841,7 @@
 	)
 	(hierarchical_label "GPIO4"
 		(shape input)
-		(at 234.95 93.98 0)
+		(at 217.17 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1830,7 +1852,7 @@
 	)
 	(hierarchical_label "E-GPIO6"
 		(shape bidirectional)
-		(at 105.41 80.01 180)
+		(at 87.63 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1841,7 +1863,7 @@
 	)
 	(hierarchical_label "GPIO16"
 		(shape input)
-		(at 168.91 86.36 180)
+		(at 151.13 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1852,7 +1874,7 @@
 	)
 	(hierarchical_label "E-GPIO42"
 		(shape bidirectional)
-		(at 133.35 82.55 0)
+		(at 115.57 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1863,7 +1885,7 @@
 	)
 	(hierarchical_label "GPIO20"
 		(shape input)
-		(at 168.91 96.52 180)
+		(at 151.13 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1874,7 +1896,7 @@
 	)
 	(hierarchical_label "E-GPIO12"
 		(shape bidirectional)
-		(at 105.41 110.49 180)
+		(at 87.63 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1885,7 +1907,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3VA")
-		(at 241.3 73.66 0)
+		(at 223.52 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1896,7 +1918,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e0b48f0-12c0-454b-9559-621686a5ef87")
 		(property "Reference" "#PWR0129"
-			(at 241.3 77.47 0)
+			(at 223.52 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1907,7 +1929,7 @@
 			)
 		)
 		(property "Value" "+3.3VA"
-			(at 241.3 68.58 0)
+			(at 223.52 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1917,7 +1939,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 73.66 0)
+			(at 223.52 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1928,7 +1950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 73.66 0)
+			(at 223.52 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1939,7 +1961,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
-			(at 241.3 73.66 0)
+			(at 223.52 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1963,7 +1985,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 201.93 123.19 0)
+		(at 184.15 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1974,7 +1996,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e050846-db28-4829-8465-e7c0c062edd4")
 		(property "Reference" "#PWR0128"
-			(at 201.93 129.54 0)
+			(at 184.15 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1985,7 +2007,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 201.93 128.27 0)
+			(at 184.15 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1995,7 +2017,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.93 123.19 0)
+			(at 184.15 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2006,7 +2028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 123.19 0)
+			(at 184.15 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2017,7 +2039,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 201.93 123.19 0)
+			(at 184.15 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2041,7 +2063,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Raspberry_Pi_4")
-		(at 201.93 93.98 0)
+		(at 184.15 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2052,7 +2074,7 @@
 		(fields_autoplaced yes)
 		(uuid "73e046b0-a169-4c82-bd1d-51ba3f00ab52")
 		(property "Reference" "J14"
-			(at 201.93 63.5 0)
+			(at 184.15 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2062,7 +2084,7 @@
 			)
 		)
 		(property "Value" "Raspberry_Pi_Zero"
-			(at 201.93 66.04 0)
+			(at 184.15 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2072,7 +2094,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 272.034 141.478 0)
+			(at 254.254 147.828 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2084,7 +2106,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf"
-			(at 217.678 126.238 0)
+			(at 199.898 132.588 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2096,7 +2118,7 @@
 			)
 		)
 		(property "Description" "Raspberry Pi 4 Model B"
-			(at 217.678 123.698 0)
+			(at 199.898 130.048 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2237,7 +2259,7 @@
 		)
 	)
 	(sheet
-		(at 105.41 67.31)
+		(at 87.63 73.66)
 		(size 27.94 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2253,7 +2275,7 @@
 		)
 		(uuid "b85c9613-c839-4ce4-9551-0aaf02b49f4d")
 		(property "Sheetname" "ESP32-S3"
-			(at 105.41 66.5984 0)
+			(at 87.63 72.9484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2264,7 +2286,7 @@
 			)
 		)
 		(property "Sheetfile" "ESP32-S3.kicad_sch"
-			(at 105.41 118.6946 0)
+			(at 87.63 125.0446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2275,7 +2297,7 @@
 			)
 		)
 		(pin "0RX" input
-			(at 133.35 72.39 0)
+			(at 115.57 78.74 0)
 			(uuid "5bb6d8a2-0726-4cef-8d5d-3ef6c00e668e")
 			(effects
 				(font
@@ -2285,7 +2307,7 @@
 			)
 		)
 		(pin "GPIO0" bidirectional
-			(at 133.35 107.95 0)
+			(at 115.57 114.3 0)
 			(uuid "8e55751e-fdf2-40df-8fac-00118f0df03f")
 			(effects
 				(font
@@ -2295,7 +2317,7 @@
 			)
 		)
 		(pin "GPIO4" bidirectional
-			(at 105.41 74.93 180)
+			(at 87.63 81.28 180)
 			(uuid "d7252e74-25aa-4aa3-a422-88fe85bde67e")
 			(effects
 				(font
@@ -2305,7 +2327,7 @@
 			)
 		)
 		(pin "GPIO40" bidirectional
-			(at 133.35 85.09 0)
+			(at 115.57 91.44 0)
 			(uuid "6967156d-d09e-4228-9e85-a91f703ba3f1")
 			(effects
 				(font
@@ -2315,7 +2337,7 @@
 			)
 		)
 		(pin "GPIO46" bidirectional
-			(at 105.41 100.33 180)
+			(at 87.63 106.68 180)
 			(uuid "8014caf1-e9b2-4da3-bc97-39e42d3204a4")
 			(effects
 				(font
@@ -2325,7 +2347,7 @@
 			)
 		)
 		(pin "GPIO41" bidirectional
-			(at 133.35 82.55 0)
+			(at 115.57 88.9 0)
 			(uuid "b1ba4fe4-2f3b-4862-89f3-580f59284519")
 			(effects
 				(font
@@ -2335,7 +2357,7 @@
 			)
 		)
 		(pin "GPIO3" bidirectional
-			(at 105.41 97.79 180)
+			(at 87.63 104.14 180)
 			(uuid "0a3ae339-1869-450b-9b0f-cf043c9ed163")
 			(effects
 				(font
@@ -2345,7 +2367,7 @@
 			)
 		)
 		(pin "GPIO13" bidirectional
-			(at 105.41 113.03 180)
+			(at 87.63 119.38 180)
 			(uuid "a983295c-fca3-4c7c-bad9-e365ded24196")
 			(effects
 				(font
@@ -2355,7 +2377,7 @@
 			)
 		)
 		(pin "GPIO45" bidirectional
-			(at 133.35 110.49 0)
+			(at 115.57 116.84 0)
 			(uuid "71fec53f-840e-4da8-99c3-4fef00df6367")
 			(effects
 				(font
@@ -2365,7 +2387,7 @@
 			)
 		)
 		(pin "GPIO9" bidirectional
-			(at 105.41 102.87 180)
+			(at 87.63 109.22 180)
 			(uuid "e8b43b48-db0b-4994-8265-25cf49e61b0c")
 			(effects
 				(font
@@ -2375,7 +2397,7 @@
 			)
 		)
 		(pin "GPIO2" bidirectional
-			(at 133.35 77.47 0)
+			(at 115.57 83.82 0)
 			(uuid "cb969ff9-c9e8-4585-9205-0cbd45e227ab")
 			(effects
 				(font
@@ -2385,7 +2407,7 @@
 			)
 		)
 		(pin "GPIO8" bidirectional
-			(at 105.41 95.25 180)
+			(at 87.63 101.6 180)
 			(uuid "6c926b9d-27e4-4d00-bbc7-0a09f6664fff")
 			(effects
 				(font
@@ -2395,7 +2417,7 @@
 			)
 		)
 		(pin "GPIO1" bidirectional
-			(at 133.35 74.93 0)
+			(at 115.57 81.28 0)
 			(uuid "bff5236e-aae6-4648-813b-1f7c9fdf43fe")
 			(effects
 				(font
@@ -2405,7 +2427,7 @@
 			)
 		)
 		(pin "GPIO21" bidirectional
-			(at 133.35 87.63 0)
+			(at 115.57 93.98 0)
 			(uuid "e7225bdf-6c77-477f-9b44-f887908c9d5b")
 			(effects
 				(font
@@ -2415,7 +2437,7 @@
 			)
 		)
 		(pin "GPIO18" bidirectional
-			(at 105.41 92.71 180)
+			(at 87.63 99.06 180)
 			(uuid "e4459e2c-9288-44e9-9d16-93c8762a6218")
 			(effects
 				(font
@@ -2425,7 +2447,7 @@
 			)
 		)
 		(pin "GPIO14" bidirectional
-			(at 105.41 115.57 180)
+			(at 87.63 121.92 180)
 			(uuid "35f86e1a-644a-471a-9823-62ce517692a1")
 			(effects
 				(font
@@ -2435,7 +2457,7 @@
 			)
 		)
 		(pin "GPIO10" bidirectional
-			(at 105.41 105.41 180)
+			(at 87.63 111.76 180)
 			(uuid "9ebd6501-b382-4792-a046-992d70c3f6a2")
 			(effects
 				(font
@@ -2445,7 +2467,7 @@
 			)
 		)
 		(pin "GPIO15" bidirectional
-			(at 105.41 85.09 180)
+			(at 87.63 91.44 180)
 			(uuid "5ad1c34b-195a-4f04-848e-9950e0fa3a71")
 			(effects
 				(font
@@ -2455,7 +2477,7 @@
 			)
 		)
 		(pin "GPIO7" bidirectional
-			(at 105.41 82.55 180)
+			(at 87.63 88.9 180)
 			(uuid "cd89e010-25c9-4abb-b032-48ff2553f76d")
 			(effects
 				(font
@@ -2465,7 +2487,7 @@
 			)
 		)
 		(pin "GPIO17" bidirectional
-			(at 105.41 90.17 180)
+			(at 87.63 96.52 180)
 			(uuid "4fe61a48-83b3-4a2d-b28b-5430b75840b9")
 			(effects
 				(font
@@ -2475,7 +2497,7 @@
 			)
 		)
 		(pin "GPIO42" bidirectional
-			(at 133.35 80.01 0)
+			(at 115.57 86.36 0)
 			(uuid "4f7684ce-8ed4-470c-a47f-5e3b167547e9")
 			(effects
 				(font
@@ -2485,7 +2507,7 @@
 			)
 		)
 		(pin "GPIO11" bidirectional
-			(at 105.41 107.95 180)
+			(at 87.63 114.3 180)
 			(uuid "6a4b1d6a-502d-4e63-af0c-027598f4773d")
 			(effects
 				(font
@@ -2495,7 +2517,7 @@
 			)
 		)
 		(pin "GPIO48" bidirectional
-			(at 133.35 113.03 0)
+			(at 115.57 119.38 0)
 			(uuid "267f9de8-7e2e-4bca-9f40-bc27f1aa9b1b")
 			(effects
 				(font
@@ -2505,7 +2527,7 @@
 			)
 		)
 		(pin "GPIO12" bidirectional
-			(at 105.41 110.49 180)
+			(at 87.63 116.84 180)
 			(uuid "46730189-a883-498b-b198-c0194b5288d3")
 			(effects
 				(font
@@ -2515,7 +2537,7 @@
 			)
 		)
 		(pin "GPIO5" bidirectional
-			(at 105.41 77.47 180)
+			(at 87.63 83.82 180)
 			(uuid "e1464d64-3b4c-4c38-82c7-07c692a98f4c")
 			(effects
 				(font
@@ -2525,7 +2547,7 @@
 			)
 		)
 		(pin "GPIO38" bidirectional
-			(at 133.35 92.71 0)
+			(at 115.57 99.06 0)
 			(uuid "09a69a52-32c3-4cbf-8538-ba697cc63d12")
 			(effects
 				(font
@@ -2535,7 +2557,7 @@
 			)
 		)
 		(pin "GPIO39" bidirectional
-			(at 133.35 90.17 0)
+			(at 115.57 96.52 0)
 			(uuid "e831ad41-d8fd-4969-ad7b-a04cc4971122")
 			(effects
 				(font
@@ -2545,7 +2567,7 @@
 			)
 		)
 		(pin "GPIO6" bidirectional
-			(at 105.41 80.01 180)
+			(at 87.63 86.36 180)
 			(uuid "a4c30f97-f28a-4b35-9284-051d94a6f595")
 			(effects
 				(font
@@ -2555,7 +2577,7 @@
 			)
 		)
 		(pin "ESP_3v3" output
-			(at 105.41 69.85 180)
+			(at 87.63 76.2 180)
 			(uuid "95567a43-1144-438d-86c7-d648b584ebe4")
 			(effects
 				(font
@@ -2565,7 +2587,7 @@
 			)
 		)
 		(pin "RGBout" output
-			(at 133.35 115.57 0)
+			(at 115.57 121.92 0)
 			(uuid "01ad3126-c209-4cec-aa4d-159dae9ca797")
 			(effects
 				(font
@@ -2575,7 +2597,7 @@
 			)
 		)
 		(pin "0TX" output
-			(at 133.35 69.85 0)
+			(at 115.57 76.2 0)
 			(uuid "ec40f304-ae65-4dc1-a2e7-bf1004edab66")
 			(effects
 				(font
@@ -2585,7 +2607,7 @@
 			)
 		)
 		(pin "RST" input
-			(at 105.41 72.39 180)
+			(at 87.63 78.74 180)
 			(uuid "7df38c14-bc8a-4f9b-bdba-553553e7031d")
 			(effects
 				(font
@@ -2595,7 +2617,7 @@
 			)
 		)
 		(pin "GPIO16" bidirectional
-			(at 105.41 87.63 180)
+			(at 87.63 93.98 180)
 			(uuid "bf194214-62f8-4250-b7e4-22f7679f7507")
 			(effects
 				(font

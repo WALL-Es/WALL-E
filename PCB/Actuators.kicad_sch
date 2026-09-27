@@ -9780,7 +9780,7 @@
 		)
 		(uuid "1f30f954-1a29-41c1-a944-94994462a925")
 	)
-	(hierarchical_label "SCL"
+	(hierarchical_label "Ser_SCL"
 		(shape input)
 		(at 68.58 149.86 180)
 		(effects
@@ -9804,7 +9804,7 @@
 		)
 		(uuid "37d08611-1f6e-470f-a9f0-ff7a5bc5d8f0")
 	)
-	(hierarchical_label "SDA"
+	(hierarchical_label "Ser_SDA"
 		(shape input)
 		(at 68.58 152.4 180)
 		(effects
