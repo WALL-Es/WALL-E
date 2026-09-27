@@ -359,3 +359,43 @@ finally i prepared the files and made sketches for the rest of the parts
 - https://lapse.hackclub.com/timelapse/RGJQpuucflLY
 
 ------------------------------
+
+## Day 6 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 27/9/2026
+- **Total hours spent:** 4.41
+
+### Entry:
+
+Uhhhh this was the longest session till now i had started school this week so instead of organizing 
+
+my things i decided to cramp up everthing last day i hate doing this i wish this is the last time ever
+
+last time i was working on the eyes and i made a good progress regarding that however i didnt know 
+
+that i needed to make two of the big part one for each eye i tought this would work by mirroring but 
+
+i was WRONG i needed to redo it (yay more hours i guess) yeah i waasss too wrong i made the placment 
+
+wrong it didnt FIT umm . i redid the eye it didnt take that much time however i struggled doing it 
+
+for whatever reason so i began sketching again and again and then i fixed the mistake 
+
+then i worked on the big part to make it fit i got it second try so i think  it was easy ?
+
+nah there is still the hinge that connects the two eyes with each other it needs to be flexable so 
+
+the eyes move. the design is toooo complex and i decided to not continuo because this was the 5th 
+
+hour straight working. this is it for this weeek all love 
+<img src="https://cdn.hackclub.com/01a0e51f-5043-7e6b-956c-227d6f929011/Screenshot_2026-09-27_163820.png" alt="Screenshot_2026-09-27_163820.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a0e51f-a41b-7182-b2ef-92837a2473d4/Screenshot_2026-09-27_221238.png" alt="Screenshot_2026-09-27_221238.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a0e51f-cdfb-79c0-a927-806a7b647b66/Screenshot_2026-09-26_150108.png" alt="Screenshot_2026-09-26_150108.png" width="1280" height="1280">
+
+### Recording links:
+- https://lapse.hackclub.com/timelapse/RGJQpuucflLY
+- [3d eyes finish · 4h 41m · Sep 27, 2026](https://lapse.hackclub.com/timelapse/mJMa7ygXNcjQ)
+
+------------------------------
