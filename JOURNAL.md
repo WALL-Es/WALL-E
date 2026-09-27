@@ -262,3 +262,74 @@ I LOVE WALL-E
 - [left eye finish · 40m · Sep 17, 2026](https://lapse.hackclub.com/timelapse/tFEgx5JB15S5)
 
 ------------------------------
+
+## Day 5 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 27/9/2026
+- **Total hours spent:** 7
+
+### Entry:
+
+WOW, that was insane, ugh i don't know how i will journal all of these hours but duh, let's wrap it up.
+
+Well, i continued working on the Schematic in this session, well, i nearly finished 95% of it.
+
+I made MANYYY things, so i need to be kinda organized while writing ts, So iam gonna wrrite the big points downthere and than will take each point will talk about it.
+
+1. I Started searching about the mic
+
+    a. I got that i can use two
+
+2. Searched about the camera
+3. add hand sily made symbol for it with no pins.
+4. searched about the 5v stepdown     
+    b. gonna use two
+5. got the resistors needed for 5v
+6. edited the ESP32 pin labels, and made its page in the brain.
+7. same for the RasPi
+8. connected teh UART bridge between the Pi and the ESP.
+9. Worked on the brain page pin distribution (it looks so awesome)
+10. Made the same thing for the rest of the Pages
+11. added a tft screen from my old project, to be like the dashboard or the screen under Wall-Es Eyes.
+12. started connecting the screen to the raspi GPIO. 
+
+WOW, these are so many points, anyways.
+
+First, the camera. well this one was kinda super easy, but i just wondered how i will add it to the Schematic, so i just made a quick lil symbol for it with no connections, and then wrote on it that it is just a regular pi camera and also added the pi camera version.
+
+<img src="https://cdn.hackclub.com/01a0e42a-0057-7815-94c5-f165a16a6a55/Screenshot_2026-09-27_213431.png" alt="Screenshot_2026-09-27_213431.png" width="300">
+
+Second, well for the stepdown, this one was super important, as it will be used to provide voltage for the pi and the esp, but i didn't want to connect the servos to the same stepdown, as it will take so much current and also can make the logic circuit disturbt. So, i added two stepdown with the same module, and connected a +5V to one of them and another +5AV to the other, as +5V is separated from +5AV. and +5AV is for the servos.
+
+<img src="https://cdn.hackclub.com/01a0e42a-043f-76a9-af8e-9dd0c789867f/Screenshot_2026-09-27_213504.png" alt="Screenshot_2026-09-27_213504.png" width="500">
+
+Third, i knew that this stepdown has a variable resistor to control the output voltage, but for me i didn't want to change anything, so i searched about the specific resistor value and placed a static resistor instead, in that way it won't never ever exceed 5.2V or lower than it.
+
+<img src="https://cdn.hackclub.com/01a0e42a-0017-7627-b8b4-d8c47b38d0d4/Screenshot_2026-09-27_213533.png" alt="Screenshot_2026-09-27_213533.png" width="200">
+
+Fourth, i edited the ESP pin labels to be hierachy labels, so i can access it from the outer page (Brain page), and also i organized the page pins based on the ESP32-s3 module itself as it looks so cool tbh. also made the same thing for the pi and connected the UART bridge for both of them so they can communicate wiredly. 
+
+<img src="https://cdn.hackclub.com/01a0e42a-02dd-720f-8458-80c67d495506/Screenshot_2026-09-27_213552.png" alt="Screenshot_2026-09-27_213552.png" width="500">
+
+Fifth, The page of the brain in the main page, when i synced the labels i mean, i decided to make it as like as the QFP components, as it can represents the main proccessing unit and the brain of the system, So i added all the labels, and then started manageing and organizing them, i took two sides for the ESP32 GPIO and the other two for the RasPi GPIO. I made it superr cool tbh.
+
+<img src="https://cdn.hackclub.com/01a0e42a-0325-71ed-bbf3-5653e874c882/Screenshot_2026-09-27_213612.png" alt="Screenshot_2026-09-27_213612.png" width="400">
+
+and yeah made the same thing for the rest of the pages and ordered the labels in a good way. and bruuuuuh, this looks soooo awesooomeee, this is my first time to use pages this intensvly, i used just one before.
+
+<img src="https://cdn.hackclub.com/01a0e42a-0275-7ad6-8746-486637d3895e/Screenshot_2026-09-27_213624.png" alt="Screenshot_2026-09-27_213624.png" width="500">
+
+Sixth, while i was checking the pages, i got that i forgot about one, the Dashboard, well actually i didn't even make brainstorm for it, so i just added a TFT 2.8 spi display, it will be like Wall-Es sun display and battery info, and also just a button to cut the main power.
+
+<img src="https://cdn.hackclub.com/01a0e429-fefc-73f8-95e6-fd176e238f34/Screenshot_2026-09-27_213638.png" alt="Screenshot_2026-09-27_213638.png" width="500">
+
+after adding it, and syncing the dashboard page labels too, i searched about how i will connect it to the Pi or the ESP, and tbh ig connected to the Pi is better, as it can work on making the visuals instead of the weak esp. (dk ig so), So i connected it to the RasPi SPI pins, and also along with the touch. 
+
+After that all, well bruuuh ig the mic and the speaker need some changes, as i searched and ig i can't connecct input and output I2S modules to the Pi at the same time. So i set this as a goal for the next session (or week). 
+
+and yeah, that's it ig, i believe i got all the points in here. 
+ 
+I hope i got this super well organized :cry.
+
+### Recording links:
+- [UGHH a lot and i don't rememeber · Sep 24, 2026](https://lapse.hackclub.com/timelapse/0kmRS9EgVi52)
