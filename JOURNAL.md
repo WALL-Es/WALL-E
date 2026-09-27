@@ -197,6 +197,53 @@ I finished the figma mindmap so decided to go for the next stage which is 3D mod
 
 ------------------------------
 
+## Day 4 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 22/9/2026
+- **Total hours spent:** 1.6
+
+### Entry:
+
+Uhh, ok in these 1.6 hours,
+i Made a great work tbh in the schematic, ii worked on the servo controller and finished it all
+
+So iam gonna talk here about how exactly i worked on it and where was the hard points. (i see that the servo controler was the hardest so that's why iam gonna talk more about it here.)
+
+i searched for the servo controller on adafruit guides, and i found it there with its schematic and pcb and 3d model, just like the Amplifier. 
+
+<img src="https://cdn.hackclub.com/01a0e3d2-12a4-7218-ab9a-74cbec334a7d/Screenshot_2026-09-27_195746.png" alt="Screenshot_2026-09-27_195746.png" width="700">
+
+
+So, i started reading the schematic how it is made and tbh it wasn't that bad, not like the Amplifier, like i learned from the amplifer and got its hiddens and made it.
+
+So i quickly got all the info and understood the schem, and then started making it in the actuators page in my kicad project.
+
+Well, i found it in kicad default libraries and i added it, but when i added it, i saw that it was for PWMing LEDs, so i was kinda overwhelmed on how it should work with servos. 
+
+But lol after i searched i got that it is normal that PWM can control LED brightness or Servos, i was kinda dump here but yay learned it. 
+
+Anyways, i added a text on the symbol saying that it is controling Servos here not LEDs.
+
+<img src="https://cdn.hackclub.com/01a0e3d3-284e-7e93-95a4-206199e91f84/Screenshot_2026-09-27_200015.png" alt="Screenshot_2026-09-27_200015.png" width="400">
+
+after that i searched about the rest of the components like capacitors and resistors and added them, but i saw a weird looking symbol that i didn' see before.
+
+<img src="https://cdn.hackclub.com/01a0e3d3-dd5e-702e-87df-cf5d158f2af9/Screenshot_2026-09-27_200037.png" alt="Screenshot_2026-09-27_200037.png" width="500">
+
+Well i got that it was a reverse voltage protection circuit, so i searched about the component and found its name on kicad "Q_PMOS_GDS"
+
+after finishing its circuit, the last thing was the pins of the servos, so i started making one 12 pins and then copied it and pasted three more times, and i got this beauty. 
+
+<img src="https://cdn.hackclub.com/01a0e3d6-a902-756f-b264-592c366ae0f3/Screenshot_2026-09-27_200049.png" alt="Screenshot_2026-09-27_200049.png" width="400">
+
+after finishing it, i added labels for the SDA and SCL and voala i finished the servo controller. 
+
+<img src="https://cdn.hackclub.com/01a0e3d7-a557-74b8-bbe8-d3842b870c77/Screenshot_2026-09-27_200057.png" alt="Screenshot_2026-09-27_200057.png" width="500">
+
+TBH i was super afraid from this one specificly, i thought it is so big and has many things but it was easy (ahem ahem, in the Schematic not the PCB yet :skull)
+
+### Recording links:
+
 ## Day 4 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
 - **Date:** 17/9/2026
