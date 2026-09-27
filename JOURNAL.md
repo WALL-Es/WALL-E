@@ -336,8 +336,8 @@ I hope i got this super well organized :cry.
 
 ## Day 5 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
-- **Date:** 27/9/2026
-- **Total hours spent:** 
+- **Date:** 26/9/2026
+- **Total hours spent:** 3.43
 
 ### Entry:
 
