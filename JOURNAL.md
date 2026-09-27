@@ -333,3 +333,29 @@ I hope i got this super well organized :cry.
 
 ### Recording links:
 - [UGHH a lot and i don't rememeber · Sep 24, 2026](https://lapse.hackclub.com/timelapse/0kmRS9EgVi52)
+
+## Day 5 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 27/9/2026
+- **Total hours spent:** 
+
+### Entry:
+
+This session i started with the second eye which i had to redo because mirroring it wouldnt work considring that so i needed to redo the eye by making more. i found when i finished the right eye that i forgot to add a hinge to connect the two eyes which will be connected with each other using a hinge conncetor.
+I looked into it and saw the video again i found that i needed to make sure that the two of the holes are the same size to connect correctly however what i missed is that i needed to make the two parts which would hold the hinge in different places like for the right eye i would make it slightly forward and for the left eye i would make it slightly back so that when they are put next to each other they align perfectly and make it easier to use the hinge then after finishing the right and left eye i decided to go for the next part which is the inside of the eye. so what is the use of it ? 
+it would be the place where they hold the mic sensor or module not decided yet, and the other eye would hold the camera we wanna use raspberry pi zero so i think a raspberry pi camera would be our choice i may need to ask nader later.
+After finishing the inside part of the eye i decided to go for the rest of the eye to clarify:
+walle's eye conisistes of small part and a big part that gives it the longtidunal shape which is very unique for walle the problem with the big part is that it needs to be designed to align perfectly with the small part and also offer space for adding sensors and wiring.
+in this session i decided it was enough to stop here cause the big part woud take a lot of time so either i lock in now or just make it in the next session (lmao im writing this after i already finished the two sessions of the week) 
+finally i prepared the files and made sketches for the rest of the parts 
+
+<img src="https://cdn.hackclub.com/01a0e45a-c313-7ca1-9710-e2312b332e75/Screenshot_2026-09-26_120817.png" alt="Screenshot_2026-09-26_120817.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a0e45b-638d-7be7-bba7-3726e9fdddf3/Screenshot_2026-09-26_120830.png" alt="Screenshot_2026-09-26_120830.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a0e50d-d70a-78fd-9aa6-19fa3db71b35/Screenshot_2026-09-26_130841.png" alt="Screenshot_2026-09-26_130841.png" width="1280" height="1280">
+
+### Recording links:
+- https://lapse.hackclub.com/timelapse/RGJQpuucflLY
+
+------------------------------
