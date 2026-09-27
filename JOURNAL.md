@@ -243,6 +243,7 @@ after finishing it, i added labels for the SDA and SCL and voala i finished the 
 TBH i was super afraid from this one specificly, i thought it is so big and has many things but it was easy (ahem ahem, in the Schematic not the PCB yet :skull)
 
 ### Recording links:
+- [Made the Servos Controller · 1h 19m · Sep 22, 2026](https://lapse.hackclub.com/timelapse/AyFFHhh8GsSA)
 
 ## Day 4 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
