@@ -9732,19 +9732,6 @@
 		)
 		(uuid "ff044179-e9b2-4f98-adc7-66bd4c87f7c2")
 	)
-	(hierarchical_label "OE"
-		(shape input)
-		(at 72.39 157.48 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify right)
-		)
-		(uuid "0942cdb8-c265-4b7d-8bd4-0f62e216f7f9")
-	)
 	(hierarchical_label "DIN"
 		(shape input)
 		(at 63.5 35.56 180)
@@ -10436,7 +10423,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "080beea2-55dd-4584-bb32-7e35eb906fc9")
 		(property "Reference" "C20"
 			(at 55.88 74.9299 0)
@@ -10450,7 +10436,7 @@
 			)
 		)
 		(property "Value" "0.1 uF"
-			(at 55.88 77.4699 0)
+			(at 54.864 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
