@@ -1421,17 +1421,6 @@
 		)
 		(uuid "41836754-b532-43fd-8e2d-c0a5000b5fc5")
 	)
-	(hierarchical_label "0TX"
-		(shape bidirectional)
-		(at 115.57 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4b4ea4b9-c5e0-44a4-94ba-b7fc1eeb796a")
-	)
 	(hierarchical_label "GPIO17"
 		(shape input)
 		(at 151.13 95.25 180)
@@ -1563,17 +1552,6 @@
 			(justify right)
 		)
 		(uuid "7c8302d1-83dc-415b-8a88-664be00f6810")
-	)
-	(hierarchical_label "0RX"
-		(shape bidirectional)
-		(at 115.57 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7e51377e-213d-4575-ac92-170fffc39247")
 	)
 	(hierarchical_label "E-GPIO21"
 		(shape bidirectional)
@@ -2093,7 +2071,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical"
 			(at 254.254 147.828 0)
 			(hide yes)
 			(show_name no)
@@ -2294,16 +2272,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
-			)
-		)
-		(pin "0RX" input
-			(at 115.57 78.74 0)
-			(uuid "5bb6d8a2-0726-4cef-8d5d-3ef6c00e668e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 		(pin "GPIO0" bidirectional
@@ -2576,7 +2544,7 @@
 				(justify left)
 			)
 		)
-		(pin "ESP_3v3" output
+		(pin "ESP_3v3" input
 			(at 87.63 76.2 180)
 			(uuid "95567a43-1144-438d-86c7-d648b584ebe4")
 			(effects
@@ -2589,16 +2557,6 @@
 		(pin "RGBout" output
 			(at 115.57 121.92 0)
 			(uuid "01ad3126-c209-4cec-aa4d-159dae9ca797")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "0TX" output
-			(at 115.57 76.2 0)
-			(uuid "ec40f304-ae65-4dc1-a2e7-bf1004edab66")
 			(effects
 				(font
 					(size 1.27 1.27)
