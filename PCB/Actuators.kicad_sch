@@ -10151,7 +10151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm"
+		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
 			(at 370.84 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -12943,7 +12943,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm"
+		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
 			(at 200.66 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13157,7 +13157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.74x4.75mm_ThermalVias"
+		(property "Footprint" "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm"
 			(at 95.885 192.405 0)
 			(hide yes)
 			(show_name no)

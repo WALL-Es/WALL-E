@@ -8566,10 +8566,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "85cfecc8-1259-454d-97b3-c2812214428a")
 		(property "Reference" "R4"
-			(at 91.44 55.88 90)
+			(at 91.44 59.944 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8579,7 +8578,7 @@
 			)
 		)
 		(property "Value" "5k"
-			(at 91.44 58.42 90)
+			(at 91.44 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
