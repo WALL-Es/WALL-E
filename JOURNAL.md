@@ -360,6 +360,29 @@ finally i prepared the files and made sketches for the rest of the parts
 
 ------------------------------
 
+## Day 6 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 29/9/2026
+- **Total hours spent:** 1.6 hours
+
+### Entry:
+
+In this session, i didn't to so much, i just continued on the previous work, and fully finished schematic, it was insane working on a schematic like that tbh. This was the biggest schem i've ever worked on till now. 
+
+
+Well, i started with the mic & speakers problem with the raspi, i searched a lot, and found an artical stating that i can use the i2s bus in the raspi for both speakers and mic, but only one mic will be used, like i won't be able to use the stereo mode in the mic, so i just removed one of the mics and connected every thing.
+
+And after that, i regularly started connecting all the parts to the brain, but considiring all the pins that i can't use in the esp and the pi, like the strapping pins and so on, and also seeing which pins can handle PWM as a default instead of using the ESPs GPIO internal matrix.
+
+After some time, i connected all the parts to the brain, and also added tthe free GPIOs to a pin header for future upgrades.
+
+<img src="https://cdn.hackclub.com/01a107be-dcc0-7909-9340-bd09dd4d8b96/Screenshot_2026-10-04_192558.png" alt="Screenshot_2026-10-04_192558.png" width="300" height="450">
+
+<img src="https://cdn.hackclub.com/01a107bf-61fe-72dd-9778-a8fdda4ed7c9/Screenshot_2026-10-04_192608.png" alt="Screenshot_2026-10-04_192608.png" width="500" height="300">
+
+### Recording links:
+- [FInished the Schematic · 1h 27m · Sep 29, 2026](https://lapse.hackclub.com/timelapse/OweCQ4emUMqL)
+
 ## Day 6 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
 
 - **Date:** 27/9/2026
