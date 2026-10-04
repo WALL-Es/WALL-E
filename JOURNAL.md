@@ -422,3 +422,41 @@ hour straight working. this is it for this weeek all love
 - [3d eyes finish · 4h 41m · Sep 27, 2026](https://lapse.hackclub.com/timelapse/mJMa7ygXNcjQ)
 
 ------------------------------
+
+## Day 7 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 4/10/2026
+- **Total hours spent:** 1.8 hours
+
+### Entry:
+
+ummmm, welllll, a newwww stage of this massive project yayayay.
+
+THE PCB :O
+
+Well, of course the first thing any person in this world would do when he start the PCB layouting and tracing stage is assigning footprints
+
+well, i have tons of footprints to assign, but fortunatly most of them are duplicates, so i will just copy and paste, also some of them are standard footprints like the SSOP8  and SO8 and so on.
+
+So i started searched about each component i don't know its footprint, and just by quickly checking the package size code and dimensions, i found its footprint, but some components i didn't catch its package size name exactly, so by searching about its Model code, i downloaded its 3d and footprint from SnapEDA.
+
+and for the Servos pin headers, i imported on of kicad's default footprints, and edited to match the real Servo controller module, and also to make it each to attach servos to it.
+
+<img src="https://cdn.hackclub.com/01a107d2-3410-7ab7-88ad-e4cc5d26a870/Screenshot_2026-10-04_194725.png" alt="Screenshot_2026-10-04_194725.png" width="500" height="300">
+
+after that, i assiged all the components, and for the Resistors and capacitors, i used the size 0603 for all of them, as it is super small and efficant.
+
+And after finishing all the footprints, i went to my happiest moment, i opened the PCB editor and imported the components.
+
+TBH, i love this thing, i knoow it has a lot of pain, but fr it is super funny while tiding it up, something like playing the tidy up games.
+
+and after this happy moment, i opened figma to make a super small and quick layout so i can imagen how i will make it. like where is each component will be.
+
+and i got this layout.
+
+<img src="https://cdn.hackclub.com/01a107d3-8d17-734f-a4c2-a53698fd5059/Screenshot_2026-10-04_195049.png" alt="Screenshot_2026-10-04_195049.png" width="500" height="300">
+
+and that's it for this session.
+
+### Recording links:
+- [Assigned footprints & made a quick PCB layout · 1h 46m · Sep 30, 2026](https://lapse.hackclub.com/timelapse/NBKnocb6jYxy)
