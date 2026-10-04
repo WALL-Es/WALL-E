@@ -487,3 +487,25 @@ and that's it
 
 ### Recording links:
 - [Fixed FPs & semi-layouted the board · 1h 20m · Oct 2, 2026](https://lapse.hackclub.com/timelapse/CEOpZRhWom8T)
+
+## Day 9 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 2/10/2026
+- **Total hours spent:** 1.2 hours
+
+### Entry:
+
+YAY, i loved this quick part, well tbh that's because i made it for the second time and i used my first trail in a different project as a reference.
+
+THE ESP ;)
+
+Well, this one is super funny while making, i always start with the USB port, by connecting the VCC with each other, and attaching the voltage regulator to it, and then connecting the data lines to the esp itself, 
+
+and after that i connect the RST & boot buttons (i had an additional button it my old project, but tbh idt i will use it here so i removed it.)
+
+<img src="https://cdn.hackclub.com/01a107f3-7e6e-772f-982a-111fcd485194/Screenshot_2026-10-04_202550.png" alt="Screenshot_2026-10-04_202550.png" width="500" height="300">
+
+And yeah i found a stupid error, i thought the herachiey label will be connected with th global label, so i left the GPIO0 which is the BOOt button with different labels, so i just removed the herachiey as i won't use it and added a global label. Also removed GPIO0 from the free GPIO and added the RGB pin.
+
+### Recording links:
+- [Finished some of the ESPs parts · 1h 13m · Oct 3, 2026](https://lapse.hackclub.com/timelapse/laAsxEAwnkKO)
