@@ -460,3 +460,30 @@ and that's it for this session.
 
 ### Recording links:
 - [Assigned footprints & made a quick PCB layout · 1h 46m · Sep 30, 2026](https://lapse.hackclub.com/timelapse/NBKnocb6jYxy)
+
+## Day 8 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 2/10/2026
+- **Total hours spent:** 1.5 hours
+
+### Entry:
+
+ughh, welllll, tbh also i hate the begining of anything, so tbh this was kinda hard for me, layouting the pcb fr from scratch was kinda hard, even after the small quick brainstorm, but anyways i don't think this is my final layout, so i just made the same layout as the brainstorm image and gonna trace the components in a way that lets me edit and move it anywhere without missing with it. 
+
+Also, i didn't just start by the layouting, hahahahaha.
+
+NO NO, of course not all the footprint was well ported, so of course i needed to manually check all the warnning of some footprints, and manually fix them, well it wasn't hard tbh, as most of the errors and warnning was clear and easy to fix. like just changing pin's number, changing pins directions, etc.
+
+And also for the raspi, well i was giving it a normal pinsocket footprint 2*20, but i knew that i need to see its direction and how it will be mounted, so i just downloaded its footprint and 3D design, and imported them to the board, and well made the direction of the mount and also made a hole for a fan to be mounted. 
+
+<img src="https://cdn.hackclub.com/01a107ea-8788-7601-b24f-f6aac88cbdfb/Screenshot_2026-10-04_201601.png" alt="Screenshot_2026-10-04_201601.png" width="500" height="300">
+
+after that, i started layouting the board with all the components (of course i didn't finish them all at once), but i placed the USB port in a good place, and the screen of course and also the esp, and so on. 
+
+<img src="https://cdn.hackclub.com/01a107ea-f019-78a0-b316-aa403ee8b52f/Screenshot_2026-10-04_201436.png" alt="Screenshot_2026-10-04_201436.png" width="500" height="300">
+<img src="https://cdn.hackclub.com/01a107ea-ee19-760b-bcaa-49f9b74c47b7/Screenshot_2026-10-04_201427.png" alt="Screenshot_2026-10-04_201427.png" width="500" height="300">
+
+and that's it
+
+### Recording links:
+- [Fixed FPs & semi-layouted the board · 1h 20m · Oct 2, 2026](https://lapse.hackclub.com/timelapse/CEOpZRhWom8T)
