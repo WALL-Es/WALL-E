@@ -509,3 +509,40 @@ And yeah i found a stupid error, i thought the herachiey label will be connected
 
 ### Recording links:
 - [Finished some of the ESPs parts · 1h 13m · Oct 3, 2026](https://lapse.hackclub.com/timelapse/laAsxEAwnkKO)
+
+## Day 10 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 4/10/2026
+- **Total hours spent:** 3 hours
+
+### Entry:
+
+Uggh, well in this session i finished most of the PCB components tracing. 
+
+I started with tracing the Raspi free GPIOs, and i got a technique to trace all the free GPIO from the Top layer, i was continuing tracing all the Free gpios until i finished the raspi, but i decided to move to tracing the Actuators first and then the sensors and then conneccting to the brain. (just like the order i followed when i was making the schem)
+
+So, moving to the DC Motor drivers, 
+
+I placed them on the right side of the PCB, and placed the DC motors terminalblocks each on its side, left on the left and right on the right.
+
+after that, i started tracing the components and resistors and capacitors with each other, with recpect to the trace width for the high voltage. 
+
+After finishing that i got this DC motor drivers traced components.
+
+<img src="https://cdn.hackclub.com/01a10820-4e1a-7586-854d-08c65f046b2e/Screenshot_2026-10-04_211007.png" alt="Screenshot_2026-10-04_211007.png" width="500" height="300">
+
+After finishing that, i moveed to the Servo controller, and made the same thing, tried to make it kinda symtrical, and i kinda succeeded at that "ig", well, i got this Servos controller traced components.
+
+<img src="https://cdn.hackclub.com/01a10820-aa13-7533-b117-ed62ee417c72/Screenshot_2026-10-04_211123.png" alt="Screenshot_2026-10-04_211123.png" width="500" height="300">
+
+after that, i started tracing the two step downs, and started the same thing by tracing the resistorss and the diodes and capacitors, and also THE MOST IMPORTNANT, the traces width.
+
+and i got those components. (and connected one of them to the servos)
+
+<img src="https://cdn.hackclub.com/01a10820-a31e-72a9-8156-a68ba06a93c1/Screenshot_2026-10-04_211347.png" alt="Screenshot_2026-10-04_211347.png" width="500" height="300">
+<img src="https://cdn.hackclub.com/01a10820-a4de-7969-988a-255d94a700b8/Screenshot_2026-10-04_211338.png" alt="Screenshot_2026-10-04_211338.png" width="500" height="300">
+
+and that's it for this session ig, IAM SOO TIRED.
+
+### Recording links:
+- [Traced motors controllers & step downs · 2h 43m · Oct 4, 2026](https://lapse.hackclub.com/timelapse/_m5TcQKBUDtB)
