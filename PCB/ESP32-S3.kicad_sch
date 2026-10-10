@@ -4086,7 +4086,7 @@
 		(at 142.24 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cbde5efc-feae-4b59-906a-39e33830919d")
+		(uuid "c8d3c6af-b335-4c41-bd58-569570c950d5")
 	)
 	(junction
 		(at 101.6 105.41)
@@ -4566,6 +4566,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 77.47) (xy 147.32 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46f6ae5e-3d86-4913-9855-3258f6e6e6af")
+	)
+	(wire
+		(pts
 			(xy 153.67 142.24) (xy 160.02 142.24)
 		)
 		(stroke
@@ -4716,16 +4726,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 76.2) (xy 147.32 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5edfafcc-962c-44c8-a978-5deb12be01b3")
-	)
-	(wire
-		(pts
 			(xy 101.6 129.54) (xy 104.14 129.54)
 		)
 		(stroke
@@ -4756,6 +4756,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 76.2) (xy 147.32 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6aa813a1-bd21-495f-8cc5-45ace8fa9fb4")
+	)
+	(wire
+		(pts
 			(xy 170.18 93.98) (xy 170.18 95.25)
 		)
 		(stroke
@@ -4776,6 +4786,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 74.93) (xy 142.24 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f084311-9954-4ec5-a352-9ad5aecb7fa9")
+	)
+	(wire
+		(pts
 			(xy 208.28 93.98) (xy 208.28 95.25)
 		)
 		(stroke
@@ -4783,16 +4803,6 @@
 			(type default)
 		)
 		(uuid "712e3983-f251-48e4-8cde-4876b987dfca")
-	)
-	(wire
-		(pts
-			(xy 146.05 76.2) (xy 146.05 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "744d217a-8b7b-4de5-8ea8-80404f90d5ac")
 	)
 	(wire
 		(pts
@@ -4983,6 +4993,16 @@
 			(type default)
 		)
 		(uuid "97e488de-c208-45fc-9b49-3fa7d55a3a21")
+	)
+	(wire
+		(pts
+			(xy 144.78 74.93) (xy 144.78 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9850b028-3c11-458f-953a-1c0b18667826")
 	)
 	(wire
 		(pts
@@ -5303,16 +5323,6 @@
 			(type default)
 		)
 		(uuid "d779faaf-c1fb-449e-86b0-9d67488ce174")
-	)
-	(wire
-		(pts
-			(xy 146.05 74.93) (xy 142.24 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7de6a9f-16ad-4a8b-a0d9-058e58b19410")
 	)
 	(wire
 		(pts

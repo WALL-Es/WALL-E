@@ -5771,6 +5771,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 38.1) (xy 90.17 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29eaee87-46cd-4f84-b6ec-bca181662520")
+	)
+	(wire
+		(pts
 			(xy 95.25 129.54) (xy 95.25 130.81)
 		)
 		(stroke
@@ -6151,13 +6161,13 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 35.56) (xy 95.25 35.56)
+			(xy 95.25 35.56) (xy 92.71 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "40f6a44d-5005-49d9-ad77-867c47c9010c")
+		(uuid "429247eb-97e2-4354-871f-c755af0ba072")
 	)
 	(wire
 		(pts
@@ -6831,6 +6841,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 80.01) (xy 95.25 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dd6c7e2-ed66-4e50-940f-c6edd22d402a")
+	)
+	(wire
+		(pts
 			(xy 182.88 52.07) (xy 182.88 69.85)
 		)
 		(stroke
@@ -6958,6 +6978,16 @@
 			(type default)
 		)
 		(uuid "74323e45-3b21-4365-abc9-e396ff8985f0")
+	)
+	(wire
+		(pts
+			(xy 95.25 77.47) (xy 92.71 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74dd02ac-40da-4541-ad43-8d132ba42de9")
 	)
 	(wire
 		(pts
@@ -7411,16 +7441,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 77.47) (xy 97.79 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93d5d414-bdf1-4c6d-be8d-6f6ffaca5ee9")
-	)
-	(wire
-		(pts
 			(xy 118.11 154.94) (xy 113.03 154.94)
 		)
 		(stroke
@@ -7791,6 +7811,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 35.56) (xy 90.17 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac45ba70-4f7e-417c-8b41-c1cd269b0857")
+	)
+	(wire
+		(pts
 			(xy 142.24 190.5) (xy 144.78 190.5)
 		)
 		(stroke
@@ -8061,6 +8091,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 38.1) (xy 92.71 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b97acf2c-469a-4250-938a-121e2f76ecd7")
+	)
+	(wire
+		(pts
 			(xy 113.03 177.8) (xy 119.38 177.8)
 		)
 		(stroke
@@ -8311,16 +8351,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 38.1) (xy 96.52 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb849c01-4d96-4aaa-ba38-8b534b42440e")
-	)
-	(wire
-		(pts
 			(xy 441.96 57.15) (xy 443.23 57.15)
 		)
 		(stroke
@@ -8561,6 +8591,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 77.47) (xy 95.25 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc26a526-ba79-483e-a297-33bdef564828")
+	)
+	(wire
+		(pts
 			(xy 30.48 160.02) (xy 33.02 160.02)
 		)
 		(stroke
@@ -8681,16 +8721,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 80.01) (xy 99.06 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e42e3b93-0378-463c-9939-b3bb86b541d9")
-	)
-	(wire
-		(pts
 			(xy 186.69 189.23) (xy 196.85 189.23)
 		)
 		(stroke
@@ -8778,6 +8808,16 @@
 			(type default)
 		)
 		(uuid "e9410110-1e74-45a1-8cb1-d0737adc158e")
+	)
+	(wire
+		(pts
+			(xy 95.25 80.01) (xy 92.71 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea2e7c82-6224-44e5-8fa2-175e83e9f859")
 	)
 	(wire
 		(pts
@@ -10567,7 +10607,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead_Small")
-		(at 99.06 38.1 270)
+		(at 99.06 38.1 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10577,7 +10617,7 @@
 		(dnp no)
 		(uuid "0fa52491-483a-4151-8e8f-a9df761fb668")
 		(property "Reference" "FB3"
-			(at 99.06 41.656 90)
+			(at 99.06 43.942 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10587,7 +10627,7 @@
 			)
 		)
 		(property "Value" "F"
-			(at 99.06 44.196 90)
+			(at 99.06 41.402 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10597,7 +10637,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 99.06 36.322 90)
+			(at 99.06 39.878 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14104,7 +14144,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead_Small")
-		(at 101.6 80.01 270)
+		(at 101.6 80.01 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14114,7 +14154,7 @@
 		(dnp no)
 		(uuid "64d5f323-25e7-4262-a7cc-77f54b1c3d6c")
 		(property "Reference" "FB6"
-			(at 101.6 83.566 90)
+			(at 101.346 86.106 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14124,7 +14164,7 @@
 			)
 		)
 		(property "Value" "F"
-			(at 101.6 86.106 90)
+			(at 101.346 83.566 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14134,7 +14174,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 101.6 78.232 90)
+			(at 101.6 81.788 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

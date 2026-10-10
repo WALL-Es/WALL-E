@@ -1850,7 +1850,7 @@
 		)
 		(uuid "f3a1ef7e-b251-43ec-9dfc-78580a63239a")
 	)
-	(hierarchical_label "E-GPIO42"
+	(hierarchical_label "E-GPIO41"
 		(shape bidirectional)
 		(at 115.57 88.9 0)
 		(effects

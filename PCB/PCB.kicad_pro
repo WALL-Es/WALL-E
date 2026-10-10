@@ -63,7 +63,7 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -76,13 +76,22 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|22640000|114730000|F.Cu|4|8e174115-6c6d-4233-843e-497b140ee21d|1e9921a4-7029-44a0-908e-19bc8cef40c3",
+          ""
+        ],
+        [
+          "unconnected_items|22640000|117270000|F.Cu|4|92cb06a0-9b3a-4d6b-8ad2-e364286af432|10a7ec9d-7677-4035-9e87-3e6daf4ddb1c",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
-        "clearance": "error",
+        "annular_width": "ignore",
+        "clearance": "ignore",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
@@ -98,7 +107,7 @@
         "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",

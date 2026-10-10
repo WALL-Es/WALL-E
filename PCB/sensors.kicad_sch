@@ -1327,6 +1327,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 74.93) (xy 106.68 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e24bd02-bbc5-407f-9a2a-2320a1d28bbe")
+	)
+	(wire
+		(pts
 			(xy 166.37 81.28) (xy 167.64 81.28)
 		)
 		(stroke
@@ -1364,6 +1374,16 @@
 			(type default)
 		)
 		(uuid "481aeecc-46ae-4383-bb35-c7b8f33ceb5f")
+	)
+	(wire
+		(pts
+			(xy 104.14 74.93) (xy 104.14 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b4b14d2-f7d4-45c2-94fc-515d1959fdde")
 	)
 	(wire
 		(pts
@@ -1437,6 +1457,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 81.28) (xy 111.76 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93d20ce4-a97f-4c2a-85f0-e6cb1aaf3779")
+	)
+	(wire
+		(pts
 			(xy 166.37 83.82) (xy 167.64 83.82)
 		)
 		(stroke
@@ -1457,13 +1487,13 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 81.28) (xy 107.95 81.28)
+			(xy 106.68 74.93) (xy 106.68 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c75bae5b-bd70-48fa-9e4b-9422db2148ac")
+		(uuid "bec399aa-1e37-4cae-bb44-3ffb55e7565a")
 	)
 	(wire
 		(pts
@@ -2400,6 +2430,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 104.14 76.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c478c6ea-29dc-427e-8c95-626c1bfc47a3")
+		(property "Reference" "#PWR0112"
+			(at 104.14 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 104.14 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 104.14 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cb914413-3c47-48f0-ba90-33482bcdba44")
+		)
+		(instances
+			(project "PCB"
+				(path "/ce714510-8789-438c-9780-97c7c26e78af/77c81cbd-c586-4d65-a39c-d5337f0031c1"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 165.1 78.74 0)
 		(unit 1)
@@ -2472,84 +2580,6 @@
 			(project "PCB"
 				(path "/ce714510-8789-438c-9780-97c7c26e78af/77c81cbd-c586-4d65-a39c-d5337f0031c1"
 					(reference "#PWR0114")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 107.95 81.28 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dfb0783c-7e82-47c6-b1d4-f3fb8a6127f7")
-		(property "Reference" "#PWR0107"
-			(at 107.95 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 107.95 76.2 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 107.95 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 107.95 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 107.95 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8183ace3-4d10-496a-adb8-d390bf6e0853")
-		)
-		(instances
-			(project "PCB"
-				(path "/ce714510-8789-438c-9780-97c7c26e78af/77c81cbd-c586-4d65-a39c-d5337f0031c1"
-					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -2733,7 +2763,7 @@
 				)
 			)
 		)
-		(property "Value" "R-INMP441"
+		(property "Value" "L-INMP441"
 			(at 118.11 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
