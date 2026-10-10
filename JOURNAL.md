@@ -461,6 +461,40 @@ and that's it for this session.
 ### Recording links:
 - [Assigned footprints & made a quick PCB layout · 1h 46m · Sep 30, 2026](https://lapse.hackclub.com/timelapse/NBKnocb6jYxy)
 
+## Day 7 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 2/10/2026
+- **Total hours spent:** 1.53
+
+### Entry:
+
+In the first session of the week i started working on the assembley of the eyes wheere this was the
+
+second time i try connecting the parts togther. I have looked over the black part which is inside 
+
+the left and right eye to hold the microphone and the camera. So i redid all of this for the second 
+
+time. i was looking to make the perfect assembley becasue when printing it i need it to work. 
+
+After i redid it i went to the third part of the eye to that completes the outer shape of the it.
+
+i found that when connecting them togther they didnt align and there was contridictions. i redesigned
+
+the part for each of the eyes then connected them to togther in the assembely again.
+
+i also worked on the hinge and i actually wasnt quite confedint that it would work however that was 
+
+enough
+<img src="https://cdn.hackclub.com/01a10896-aa2d-7e6f-a14f-4497ab5841f9/Screenshot_2026-09-26_130832.png" alt="Screenshot_2026-09-26_130832.png" width="720" height="720">
+
+<img src="https://cdn.hackclub.com/01a10896-e37a-7b7d-b4d5-337282fd8aeb/Screenshot_2026-09-26_150058.png" alt="Screenshot_2026-09-26_150058.png" width="720" height="720">
+
+### Recording links:
+- [wha · 14m · Sep 28, 2026](https://lapse.hackclub.com/timelapse/-EYIFLzyPGTo)
+- [Hinge redo · 1h 39m · Oct 2, 2026](https://lapse.hackclub.com/timelapse/ulQ-KFWloU6h)
+
+------------------------------
+
 ## Day 8 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 2/10/2026
