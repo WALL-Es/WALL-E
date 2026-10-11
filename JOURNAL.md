@@ -652,3 +652,32 @@ And Voila i finished all the PCB board including the 3D designs of all the compo
 ### Recording links:
 - [90% finished the PCB · 50m · Oct 9, 2026](https://lapse.hackclub.com/timelapse/ZYFJ3M-egy17)
 - [95% finished the PCB · 3h 4m · Oct 10, 2026](https://lapse.hackclub.com/timelapse/q_K5fvJhgK8V)
+
+## Day 13 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 11/10/2026
+- **Total hours spent:** 1.2 hours
+
+### Entry:
+
+in this last session of this week, i just worked on managing the Silkscreens of the board, like the GPIO mapping,
+
+Caution warnings, connector names, and so on. 
+
+iam not sure if i finished them all in this session, but i added what in my mind, and also added, wall-e animation silkscreen for wall-e and eve, they are SUPER DUPER RUPER CUTEEEE. well, i love them.
+
+Below are images of the silkscreens.
+
+
+<img src="https://cdn.hackclub.com/01a12ccf-2e9a-73c6-a8b6-ae3bf7f689bd/Screenshot_2026-10-12_001120.png" alt="Screenshot_2026-10-12_001120.png" width="400" height="300">
+<img src="https://cdn.hackclub.com/01a12ccf-2cff-76b7-8e3f-07763370173f/Screenshot_2026-10-12_001102.png" alt="Screenshot_2026-10-12_001102.png" width="400" height="300">
+<img src="https://cdn.hackclub.com/01a12ccf-2bef-7e30-8cad-f5a114716f46/Screenshot_2026-10-12_001033.png" alt="Screenshot_2026-10-12_001033.png" width="400" height="300">
+<img src="https://cdn.hackclub.com/01a12ccf-2d0c-7b6e-a478-0f00ff0a7577/Screenshot_2026-10-12_001026.png" alt="Screenshot_2026-10-12_001026.png" width="400" height="300">
+<img src="https://cdn.hackclub.com/01a12ccf-2d8c-7d3d-9e18-1a7c5441b91f/Screenshot_2026-10-12_001012.png" alt="Screenshot_2026-10-12_001012.png" width="400" height="300">
+
+and after making the silkscreen, I quickly searched more about Isaac Sim, and maybe I found that my laptop won't be able to work with it efficiently, so i searched about alternatives, and i found something called Gazebo Sim so maybe gonna see it next week.
+
+soo yeah see ya.
+
+### Recording links:
+- [Finished the PCB · 1h 3m · Oct 11, 2026](https://lapse.hackclub.com/timelapse/OsPnq9cUdWzp)
