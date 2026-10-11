@@ -619,7 +619,7 @@ and that's it for this session.
 
 ## Day 12 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
-- **Date:** 11/10/2026
+- **Date:** 10/10/2026
 - **Total hours spent:** 4 hours
 
 ### Entry:
