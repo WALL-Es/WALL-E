@@ -616,3 +616,39 @@ and that's it for this session.
 ### Recording links:
 - [Traced some components · 1h 59m · Oct 7, 2026](https://lapse.hackclub.com/timelapse/174kPXSq59Jj)
 - [Worked a lil on the PCB · 42m · Oct 6, 2026](https://lapse.hackclub.com/timelapse/sR22OGlgtuSf)
+
+## Day 12 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 11/10/2026
+- **Total hours spent:** 4 hours
+
+### Entry:
+
+Uhh, i worked a lot in this session. 
+
+Well, they are just repeating of other traced components, just tracing resistors and capacitors around the component
+
+and then connect its main communication traces to the brain like the the I2C bus and the BCLK & RLCLK. 
+
+and then, after connecting all the important components and also the Free GPIO for the ESP. i started checking all the 3D designs of all the components and started searching about the missing, and adding it to its corresponding component. 
+
+And yeah for the decoupling capacitors, i found that i must trace them very near to their components, so they can do their jobs. near to the components, so i started counting each single one and check if it is near to its components or not.
+
+After finishing tracing all of these components, i started the DRC. 
+
+
+ANDDD GUESS WHATTT, TS took me 20 minutes to just run the DRC alone. i was shocked. but i just tried my best to work and fix them. 
+
+most of the problem was problems about the GND zone fills. but i just filled the board with small vias everywhere so they can connect all the gnd zones with each other. 
+
+After filling it with many vias, most of the errors got solved, except two errors, i searched where they are for so long, but i got that they are just the 3.3v pins of the RasPi GPIO which are internally connected already, so i just ignroued them.
+
+And Voila i finished all the PCB board including the 3D designs of all the components. 
+
+<img src="https://cdn.hackclub.com/01a12cc1-1bb0-7818-b019-35509b166467/Screenshot_2026-10-11_235633.png" alt="Screenshot_2026-10-11_235633.png" width="400" height="300">
+
+<img src="https://cdn.hackclub.com/01a12cc1-c0d3-75a2-84c4-0af77cfb9bd5/Screenshot_2026-10-11_235720.png" alt="Screenshot_2026-10-11_235720.png" width="400" height="300">
+
+### Recording links:
+- [90% finished the PCB · 50m · Oct 9, 2026](https://lapse.hackclub.com/timelapse/ZYFJ3M-egy17)
+- [95% finished the PCB · 3h 4m · Oct 10, 2026](https://lapse.hackclub.com/timelapse/q_K5fvJhgK8V)
