@@ -580,3 +580,39 @@ and that's it for this session ig, IAM SOO TIRED.
 
 ### Recording links:
 - [Traced motors controllers & step downs · 2h 43m · Oct 4, 2026](https://lapse.hackclub.com/timelapse/_m5TcQKBUDtB)
+
+## Day 11 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 07/10/2026
+- **Total hours spent:** 3 hours
+
+### Entry:
+
+Uhhh, well i hope i can finish the PCB this week.
+
+WEll, ok i started by working on the Amplfiers and tracing them, starting with the connectors of the Speakers.
+
+Well, i was collecting its components and i found two resistors and two capacitors, well they were super fit with each other to make a small pixeled boy, it was soo funny making it.
+
+<img src="https://cdn.hackclub.com/01a12c86-13e4-799a-945a-40a6b0d47b05/Screenshot_2026-10-06_112930.png" alt="Screenshot_2026-10-06_112930.png" width="500" height="300">
+
+and after connecting the small pixeled boys, i started connecting the amplifers themselves, like tracing all the resistors and the capacitors and the Ferritebead, it was so funny tbh.
+
+<img src="https://cdn.hackclub.com/01a12c87-a513-7d36-853c-12500a9145fc/Screenshot_2026-10-11_225334.png" alt="Screenshot_2026-10-11_225334.png" width="400" height="400">
+
+well, I also worked on connecting the TFT screen with the RasPi, and it was super satisfing tbh, like i was tracing the holes on the same line, but tbh when i get closer to the RasPi it gets more complex, but still it was super enjoyable. 
+
+<img src="https://cdn.hackclub.com/01a12c88-82a9-7f53-8def-bdf19255267d/Screenshot_2026-10-11_225444.png" alt="Screenshot_2026-10-11_225444.png" width="400" height="200">
+
+And also connected the Microphone connector and  litearly made it catch the bclk and the LRclk rails. and it looks amazing tbh. 
+
+
+<img src="https://cdn.hackclub.com/01a12c89-7fcc-71e3-9bfa-ba81239cb1fa/Screenshot_2026-10-11_223812.png" alt="Screenshot_2026-10-11_223812.png" width="400" height="400">
+
+and yeah i traced many other things like the Servo controller and the DC Motor driver and so on, but. at the end when i became to connect everything to the esp, i swapped some pinouts so they can connect easier with the components. 
+
+and that's it for this session.
+
+### Recording links:
+- [Traced some components · 1h 59m · Oct 7, 2026](https://lapse.hackclub.com/timelapse/174kPXSq59Jj)
+- [Worked a lil on the PCB · 42m · Oct 6, 2026](https://lapse.hackclub.com/timelapse/sR22OGlgtuSf)
