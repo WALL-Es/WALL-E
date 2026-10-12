@@ -544,6 +544,31 @@ And yeah i found a stupid error, i thought the herachiey label will be connected
 ### Recording links:
 - [Finished some of the ESPs parts · 1h 13m · Oct 3, 2026](https://lapse.hackclub.com/timelapse/laAsxEAwnkKO)
 
+## Day 9 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 12/10/2026
+- **Total hours spent:** 9.6
+
+### Entry:
+
+i started this week with whatever u can say as finishing the eyes they are the most complex part of the whole system so i think i took my time in doing it (im sorry) i started with the eyes hinge which didnt have place for two of the last eye parts which gives the last shape of the full eye i got to the point where i have been staring at the screen for hours figruing out how can i fix it in the end i just needed to remove an extrude base and redoing it instead of modifiying it. 
+
+oh i missed that i have worked on the last part which gives the final shape of the eyes and i found out that i have different dimensions of the eye second part with the last one so i redid the second part. 
+i hate to make it all it took me lotssss of time fixing all the attaching problems its like they never finish i have been doingg it for more than half the session i had did. i had problems with every time i did a new things or added something and i was having an assembly to make sure that everthing is working and doesnt have any problems as i am looking to build it in real life if possible.
+
+<img src="https://cdn.hackclub.com/01a12d85-8e25-7b39-bbcf-b9943d95af09/Screenshot_2026-10-12_023653.png" alt="Screenshot_2026-10-12_023653.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a12d86-9940-7d88-8c88-9110024f9348/Screenshot_2026-10-12_023808.png" alt="Screenshot_2026-10-12_023808.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a12d86-bb44-7dcb-85da-c63a32bd7314/Screenshot_2026-10-12_024344.png" alt="Screenshot_2026-10-12_024344.png" width="1280" height="1280">
+
+### Recording links:
+- [Last time with eyes · 4h 58m · Oct 11, 2026](https://lapse.hackclub.com/timelapse/JHK3AgGHp8hq)
+- [second last eye part · 3h 57m · Oct 11, 2026](https://lapse.hackclub.com/timelapse/AbLNfAQPsQ07)
+- [starting out this week · 9m · Oct 9, 2026](https://lapse.hackclub.com/timelapse/kMOpTYvkcVVx)
+
+------------------------------
+
 ## Day 10 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 4/10/2026
