@@ -714,6 +714,25 @@ And Voila i finished all the PCB board including the 3D designs of all the compo
 - [90% finished the PCB · 50m · Oct 9, 2026](https://lapse.hackclub.com/timelapse/ZYFJ3M-egy17)
 - [95% finished the PCB · 3h 4m · Oct 10, 2026](https://lapse.hackclub.com/timelapse/q_K5fvJhgK8V)
 
+## Day 12 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 18/10/2026
+- **Total hours spent:** 3.01
+
+### Entry:
+
+In the final session this week I assembled the neck and the eyes and it was amazing to finally see them together
+I tested the assembly and everything fit perfectly I showed it to Nader too and he really liked it so I guess I got his approval
+I kept going back to the parts whenever I found something wrong in the assembly and made changes until they worked together I also made the neck and eye assemblies separately so I could work with each one more easily
+<img src="https://cdn.hackclub.com/01a14f76-63db-7e74-b7bf-cc63c38aa87f/Screenshot_2026-10-18_125103.png" alt="Screenshot_2026-10-18_125103.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a14f76-8be9-7b0e-bd14-63339ab3c9ef/Screenshot_2026-10-18_125036.png" alt="Screenshot_2026-10-18_125036.png" width="1280" height="1280">
+
+### Recording links:
+- [Neck assembly · 3h 1m · Oct 18, 2026](https://lapse.hackclub.com/timelapse/V61YJ2UDmUD-)
+
+------------------------------
+
 ## Day 13 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 11/10/2026
