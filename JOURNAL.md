@@ -761,3 +761,86 @@ soo yeah see ya.
 
 ### Recording links:
 - [Finished the PCB · 1h 3m · Oct 11, 2026](https://lapse.hackclub.com/timelapse/OsPnq9cUdWzp)
+
+## Day 14 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 18/10/2026
+- **Total hours spent:** 5.6 hours
+
+### Entry:
+
+Ugh this session will be super long, but anyways let's get it down.
+
+Well, iam gonna write all the points i made first, then i will talk about each one.
+
+Well the points are:
+
+1. Started searching about the Simulation methods i can use.
+2. Found that maybe i will need ROS, as i planned.
+3. Started downloading WSL so i can use it.
+4. Tried a lot to install ROS, but i got many errors
+5. I got that ROS has many distros, and the one i need called ROS-2 Lyrical.
+6. Downloaded it and setup the environment
+7. Searched about Simulation softwares, and found Gazebo and Webots. 
+8. Tried randomly webots, and found that i need a URDF file that descipes the Joints and so on.
+    1. Started Making a super Quick Wall-E design with some joints. (Made it instead of downloading, to specifiy the Joints myself)
+    2. Gonna talk about how made the Quick Wall-E
+9. After finishing the 3D, Searched on how to Export to URDF.
+10. Downloaded a script that helps doing that, but it ruined it.
+
+
+Well, the first point.
+
+Well, after finishing the PCB, and litearly i felt like kinda lost, and dk what to do next. 
+ 
+The 3D design needs more time to be finished and ready to be simulated. So, i just started searching more about ROS2 and the simulation thingy. 
+
+I didn't simulate a robot before. So i needed to play around a lil to see what makes what, and what is better then what. 
+
+Sooo, i found of course that i need to download and setup ROS2, butttttt i don't have WSL, or linux in general (iam a linux fan, but using windows unforunatly at the meaning time) so, i also downloaded Debian as a WSL, but also found that Debian doesn't run ROS nativly, so i just got ubuntu too. 
+
+So, after downloadinng WSl, I starting searching about ROS2 too. Well, i found many distros, but i didn't know that ROS2 has distros at the first place, and each distro only work with a specific Ubuntu version, So i litearly tried to download 2 distros thinking it won't matter, but it didn't find the distros i was trying to install with apt, So i tried again with a distro called lyrical, and suddenly it started installing without any errors, and that's because it is the one which work on ubuntu 26. So yay, i downloaded ROS2 succeessfully.  
+
+So after downloading ROS2, i started searching about the simulators that i can use, integrated with ROS2, i found many, but two caught my attension. 
+
+Gazebo, and Webots
+
+Those two seemed easy to use (haha iam dreaming), but anyways i picked a random one and started to search about it. 
+
+to summarize, i found that i need to make a stupid quick 3D wall-e with some joints ('cause the big 3D needs more time to be finished by ziad) to see how i will integrate it, but instead of just downloading it, i made a quick one but myself 'cause i needed to see how the joints will be exported. 
+
+ugh, this is the biggest one, the Quick stupid WALL-E design. 
+
+i call it "Wall-e souq elgoma", well i started with the eye pieces. 
+
+i just saw the eye piece that ziad made, and tried clone it quickly. and i made this shit. 
+
+<img src="https://cdn.hackclub.com/01a14f77-23d6-7e9c-9a4e-7f2f00e13094/Screenshot_2026-10-18_174044.png" alt="Screenshot_2026-10-18_174044.png" width="400" height="300">
+
+After the eye piece, and after making the other eye piece with the joint place for both of them. 
+
+I made the neck, which was super simple with just two joint one in the eyes and the other in wall-e's body.
+
+After finishing the head, i started working on the body itself. which simply was just a stupid small hollow cube and made a small hole on the top face for the neck.
+
+<img src="https://cdn.hackclub.com/01a14f77-2434-746f-ad45-914441e76bb3/Screenshot_2026-10-18_174114.png" alt="Screenshot_2026-10-18_174114.png" width="400" height="300">
+
+
+then, i started working on the wheels, and placed four of them under the body, i didn't make the full mechanizm as i just needed a quick joints structure. 
+
+<img src="https://cdn.hackclub.com/01a14f77-2657-7025-9a47-74faa18b1bf0/Screenshot_2026-10-18_174159.png" alt="Screenshot_2026-10-18_174159.png" width="400" height="300">
+
+So, i also started working on the hands, at first i wantted to make it kinda complicated, but i found that it will take kinda more time then usual and it is also not well made, 'cause i nested some components into a hybrid design. so i made a simple hand, and added it to the body like the wheels. 
+
+<img src="https://cdn.hackclub.com/01a14f77-227f-77f4-86b0-d76517c66cf0/Screenshot_2026-10-18_174148.png" alt="Screenshot_2026-10-18_174148.png" width="400" height="300">
+
+and that's it for the souq elgomma wall-e. 
+
+<img src="https://cdn.hackclub.com/01a14f77-25ce-7e4d-abe3-700fa738024e/Screenshot_2026-10-18_174221.png" alt="Screenshot_2026-10-18_174221.png" width="400" height="300">
+
+After i finished this quick 3D, i searched about an extension that export a URDF file, so i found two, one exported without giving feedback, and when i tried it, i saw it super awfully. 
+
+but that's all for this session.
+
+### Recording links:
+- [Quick Wall-E 3D & Webots · 5h 9m · Oct 16, 2026](https://lapse.hackclub.com/timelapse/XI-t51KsoxDi)
