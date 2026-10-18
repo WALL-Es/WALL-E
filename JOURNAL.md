@@ -844,3 +844,42 @@ but that's all for this session.
 
 ### Recording links:
 - [Quick Wall-E 3D & Webots · 5h 9m · Oct 16, 2026](https://lapse.hackclub.com/timelapse/XI-t51KsoxDi)
+
+## Day 15 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 17/10/2026
+- **Total hours spent:** 2.6 hours
+
+### Entry:
+
+in this session, ima continue what i've made in the previous session.
+
+here you are the points:
+
+1. Got another script, and instructions on how to make a good URDF file.
+2. It gave some errors, so i worked on fixing them.
+3. After exporting, tried a lot to Import it to webots, but found that it exported to a runnable Gazebo package.
+4. Search about the difference between webots & Gazebo.
+5. Decided to use Gazebo as it is more advanced and suitable for our situation. 
+6. Tried a lot to import to Gazebo, but found that i didn't connect it with ROS
+7. Connected with ROS, but also found that i exported to ROS1 instead of ROS2.
+8. Found the right extension, and exported to ROS2.
+9. Tried again to import to Gazebo, it semi succeeded but it needs some work.
+10. That's it. 
+
+I tried the other script, and i was fixing all the feedback he gave me, until i fixed all the joints.
+
+And after that i tried a lot to import it to webots, but lol the extension gave me a gazebo runnable package that doesn't have a raw URDF. 
+
+So i searched about gazebo and webots too, but i found that i might need gazebo more then webots, so i just used gazebo and installed it.
+
+After that, i tried to import it to Gazebo, but lol i didn't integerate it with ROS2, so i tried to integerate it, but while iam trying to integerate it, i found that the package i got from the export, was for ROS1 not ROS2, So i searched for another extension and i found one that gives a ROS2 package. 
+
+After that, i integerated ROS2 with gazebo, and tried to run that package, it kinda worked.
+
+<img src="https://cdn.hackclub.com/01a14f87-d428-71ca-94db-6d0bbf21f623/Screenshot_2026-10-18_180013.png" alt="Screenshot_2026-10-18_180013.png" width="400" height="300">
+
+but it was with no floor, and the robot with no colors, and it was falling infinetly. it need some fixes so iam gonna do them next time.
+
+### Recording links:
+- [Exported a well made URDF · 2h 23m · Oct 17, 2026](https://lapse.hackclub.com/timelapse/T5GN98pbh07Y)
