@@ -659,6 +659,25 @@ and that's it for this session.
 - [Traced some components · 1h 59m · Oct 7, 2026](https://lapse.hackclub.com/timelapse/174kPXSq59Jj)
 - [Worked a lil on the PCB · 42m · Oct 6, 2026](https://lapse.hackclub.com/timelapse/sR22OGlgtuSf)
 
+## Day 11 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 18/10/2026
+- **Total hours spent:** 5
+
+### Entry:
+
+In the second session I finished the second and third eye parts
+I had been looking at this part for a while and I think I finally figured it out I finished the sketch for the second part extruded it and cut holes for the screws so the two parts could connect
+I placed the screw holes 1 cm from the center then realized I need to try the parts together first to make sure they actually fit
+<img src="https://cdn.hackclub.com/01a14f6c-0cdd-70a3-98e8-41996c2b2fb6/Screenshot_2026-10-18_173031.png" alt="Screenshot_2026-10-18_173031.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a14f6c-7670-70fe-bfe0-c7acadc67c08/Screenshot_2026-10-18_173004.png" alt="Screenshot_2026-10-18_173004.png" width="1280" height="1280">
+
+### Recording links:
+- [Neck parts · 5h 0m · Oct 17, 2026](https://lapse.hackclub.com/timelapse/T9BqKtPhukS9)
+
+------------------------------
+
 ## Day 12 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 10/10/2026
