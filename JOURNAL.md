@@ -764,7 +764,7 @@ soo yeah see ya.
 
 ## Day 14 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
-- **Date:** 18/10/2026
+- **Date:** 16/10/2026
 - **Total hours spent:** 5.6 hours
 
 ### Entry:
