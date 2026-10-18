@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<robot name="Wall-E" xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+<xacro:property name="body_color" value="Gazebo/Silver" />
+
+<gazebo reference="base_link">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+  <gravity>true</gravity>
+</gazebo>
+
+<gazebo reference="Button_Head_Small_Solid_Rivet_ASME_B18.1.1_-_3/8_x_1_1/4_Steel_Plain_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Wheel2_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Wheels_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Wheels3_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Wheels4_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Simple-Hand2_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Simple-Hand_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Neck_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Eye-Piece_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<gazebo reference="Eye-Piece_other_1">
+  <mu1>0.2</mu1>
+  <mu2>0.2</mu2>
+  <self_collide>true</self_collide>
+</gazebo>
+
+<ros2_control name="GazeboSimSystem" type="system">
+<hardware>
+   <plugin>gz_ros2_control/GazeboSimSystem</plugin>
+</hardware>
+<joint name="Revolute 8">
+   <state_interface name="position"/>
+   <state_interface name="velocity"/>
+</joint>
+
+<joint name="Revolute 9">
+   <state_interface name="position"/>
+   <state_interface name="velocity"/>
+</joint>
+
+<joint name="Revolute 10">
+   <state_interface name="position"/>
+   <state_interface name="velocity"/>
+</joint>
+
+<joint name="Revolute 11">
+   <state_interface name="position"/>
+   <state_interface name="velocity"/>
+</joint>
+
+<joint name="Revolute 27">
+  <command_interface name="position">
+    <param name="min">-0.436332</param>
+    <param name="max">1.570796</param>
+  </command_interface>
+  <command_interface name="velocity">
+    <param name="min">10</param>
+    <param name="max">100</param>
+  </command_interface>
+  <state_interface name="position">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="velocity">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="effort"/>
+</joint>
+
+<joint name="Revolute 28">
+  <command_interface name="position">
+    <param name="min">-1.570796</param>
+    <param name="max">0.523599</param>
+  </command_interface>
+  <command_interface name="velocity">
+    <param name="min">10</param>
+    <param name="max">100</param>
+  </command_interface>
+  <state_interface name="position">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="velocity">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="effort"/>
+</joint>
+
+<joint name="Revolute 29">
+  <command_interface name="position">
+    <param name="min">-0.698132</param>
+    <param name="max">0.698132</param>
+  </command_interface>
+  <command_interface name="velocity">
+    <param name="min">10</param>
+    <param name="max">100</param>
+  </command_interface>
+  <state_interface name="position">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="velocity">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="effort"/>
+</joint>
+
+<joint name="Revolute 32">
+  <command_interface name="position">
+    <param name="min">0.261799</param>
+    <param name="max">0.261799</param>
+  </command_interface>
+  <command_interface name="velocity">
+    <param name="min">10</param>
+    <param name="max">100</param>
+  </command_interface>
+  <state_interface name="position">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="velocity">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="effort"/>
+</joint>
+
+<joint name="Revolute 33">
+  <command_interface name="position">
+    <param name="min">0.523599</param>
+    <param name="max">0.523599</param>
+  </command_interface>
+  <command_interface name="velocity">
+    <param name="min">10</param>
+    <param name="max">100</param>
+  </command_interface>
+  <state_interface name="position">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="velocity">
+    <param name="initial_value">0.0</param>
+  </state_interface>
+  <state_interface name="effort"/>
+</joint>
+
+</ros2_control>
+<gazebo>
+<plugin filename="gz_ros2_control-system" name="gz_ros2_control::GazeboSimROS2ControlPlugin">
+   <parameters>$(find Wall-E_description)/config/ros2_controller.yaml</parameters>
+</plugin>
+<plugin filename="gz-sim-sensors-system" name="gz::sim::systems::Sensors">
+   <render_engine>ogre2</render_engine>
+</plugin>
+<plugin filename="gz-sim-imu-system" name="gz::sim::systems::Imu"/>
+</gazebo>
+</robot>
