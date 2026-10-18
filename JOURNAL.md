@@ -606,6 +606,23 @@ and that's it for this session ig, IAM SOO TIRED.
 ### Recording links:
 - [Traced motors controllers & step downs · 2h 43m · Oct 4, 2026](https://lapse.hackclub.com/timelapse/_m5TcQKBUDtB)
 
+## Day 10 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 18/10/2026
+- **Total hours spent:** 1.15
+
+### Entry:
+
+In the first session I worked on the first part of the neck but I couldnt get the idea straight so I went back to review what I had and how the video showed it
+I started sketching the part and failed more times than I can count until I remembered the mind map I made in Figma showing the whole project and its parts
+That helped me figure it out and finish the first part then I moved on to the second part which is basically the same thing but on the other side
+<img src="https://cdn.hackclub.com/01a14f61-b5b3-732b-b8fb-905a3da2135c/Screenshot_2026-10-18_171912.png" alt="Screenshot_2026-10-18_171912.png" width="1280" height="1280">
+
+### Recording links:
+- [neck first part · 1h 15m · Oct 17, 2026](https://lapse.hackclub.com/timelapse/tqSfn5nQldfi)
+
+------------------------------
+
 ## Day 11 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 07/10/2026
