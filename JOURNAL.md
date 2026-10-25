@@ -960,7 +960,7 @@ photo of the simulation right now.
 ## Day 17 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 24/10/2026
-- **Total hours spent:** 
+- **Total hours spent:** 4.5 hours
 
 ### Entry:
 
