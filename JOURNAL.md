@@ -883,3 +883,76 @@ but it was with no floor, and the robot with no colors, and it was falling infin
 
 ### Recording links:
 - [Exported a well made URDF · 2h 23m · Oct 17, 2026](https://lapse.hackclub.com/timelapse/T5GN98pbh07Y)
+
+## Day 16 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 23/10/2026
+- **Total hours spent:** 6.7
+
+### Entry:
+
+UGHHH, this week was a disaster, i knew that i need to say bye bye to lapse :c
+
+Iam now working on the simulation with ROS&Gazebo, and when i asked, i knew that there is a terminal wakatime extension that i can use + that iam working on a code so i CANNOT use Lapse anymore, and i must use these extensions. 
+
+It was so hard to migrate from lapse to hackatime at first. 
+
+well the incoming journal entries will lack of photos tbh, 'cause it is a code, iam not taking a pic of the code of course. Maybe just a few photos from the gazebo itself (or a GIF to be spceific). 
+
+ughh, ok iam gonna do the same thing i did before, gonna write the points and then gonna talk with more details.
+
+For this sessions work (which i don't remember most of it 'cause i was rewatching my lapses :c):
+
+1. Figured out the worldless simulation (it has no ground)
+2. Figured out the colors problem
+3. Figured out the sensors and re-exported
+4. Started tracking with hackatime (VScode + Terminal extensions)
+5. Initalized a new repo for the simulation alone 
+6. Stayed a lot fixing freeze problem (at the end it was 'cause of sensors' joints)
+
+that it for this session ig, well now let me break through them.
+
+First, the Worldless simulation. Well in this point, when i was launching the simulation, the robot were falling in the infinity, and the world had no ground for the robot to drop on. 
+
+So, i had so much time trying to figure out what are the files of the package of my robot. I had to understand what is a package, and what is a launch file for gazebo, and how to add entities or a ground to the world. 
+
+But i figured out that the export of my fusion were without any world, it was only making an empty world when it starts launching and spawns the robot at. 
+
+This wasn't the best thing to walk with. So i figured out how to add a world.sdf file to the package, which i can add whatever i want to it and load it instead of the new raw world that the launch file was creating. 
+
+So, i made it, and add the ground (the minimal code from the documentation), and yayy, the world has now a ground plane that the robot land on it. 
+
+After figuring out the world issue and the ground.
+
+I needed to figure out the Robot entities colors issue, it was only giving raw silver material to all the components, and i found that it was a problem with the extension i used to export from fusion. so i just changed it and tried to find a better one, or try anything to fix the extension as it is just a tool and it is not related to the project (didn't count the extension fix time). 
+
+And horay it is now working, and it exported correct materials after i changed them in fusion too.
+
+After that, the new extension i found had a great feature, it allowed me to add components in fusion and name them (SensorName_SensorSuffix)
+
+in that way, it will automaticly add sensors to the components with the correct names. 
+
+So i added an IMU sensor and a Camera, but i read in the readme of the extension that i need to connect them to the robot with a revolute joint, so i added it and gave it 0 min 0 max 0 rest limits.
+
+after that i re-exported.
+
+but after that i switched to Hackatime, and initialized a repository so i can work more efficently. 
+
+Well, i got back to the gazebo simulation and imported the new export, and it worked and imported the sensors too, but lol the whole simulation freezes. SOOOOO
+
+i spent so much time debugging and trying to catch the issue, but it was kinda insane. annnnd at the end, i found the error.
+
+LOL the readme miss-led me. i need to connect the sensors with the robot with fixed joints or a revolute joint with bigger limits.
+
+the 0 0 0 limits were freezing the simulation. 
+
+So, i just changed the joints from the sim.xacro file to fixed joints, and horray it is working normally now. 
+
+And that's it for this session.
+
+photo of the simulation right now. 
+
+<img src="https://cdn.hackclub.com/01a1720f-3514-750c-828e-7b123c6fae03/Screenshot_2026-10-25_105545.png" alt="Screenshot_2026-10-25_105545.png" width="400" height="500">
+
+### Recording links:
+- [Figured out sensors & added them · 1h 18m · Oct 23, 2026](https://lapse.hackclub.com/timelapse/YBACHSmTm7WM)
