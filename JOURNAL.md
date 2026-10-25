@@ -956,3 +956,61 @@ photo of the simulation right now.
 
 ### Recording links:
 - [Figured out sensors & added them · 1h 18m · Oct 23, 2026](https://lapse.hackclub.com/timelapse/YBACHSmTm7WM)
+
+## Day 17 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 24/10/2026
+- **Total hours spent:** 
+
+### Entry:
+
+In this session, i worked more on the interactions. 
+
+Gonna write the points and then talk in details:
+
+1. Tried a lot with the movement of the robot wheels
+2. Fixed the super high speed 
+3. The robot was shifted in the X axis, so it was hard to debug
+4. fixed the camera direction
+
+not so much points but So much time and debuggings :c
+
+Well the first thing. 
+The movement of the robot, well, this thing was awful tbh, or maybe it was awful because it was my first time dealing with gazebo and ROS plugins and nodes. 
+
+I searched a lot about the way that i can use to add wheels movement simulation to my wheels.
+Found many things, they weren't specific about my current gazebo & ROS configuration, most of the things were outdated.
+So i did the most thing i love when iam learing, i just go on and try random things. 
+
+Let me write this in more organized way. First i searched but didn't find up to date results. 
+
+So i tried random plugins and whatever i found, after that i read carefully what i found and had tried.
+
+and i got that there are two plugins i can use and two ways, first way from the ros2_controller itself which i tried first but found that it is complex and it is better to switch to the gazebo way, the gazebo way had two plugins i can use. 
+
+I tried one called steer_bluh_bluh don't remember exactly tbh, but found that this shity plugin were outdated and no longer work with my current gazebo version, that's after many trails and many debugging :c
+
+so i switched to the other one which called sim-diff-drive-system, this one is the right now to work with. 
+
+i added it and defined my wheels in it + defined a higher friction.
+
+and tried, buttt nothing moved, i then tried to debug and see where is the problem, but i found a hidden (didn't know that it exists) document about the plugin, and found that i need to activate the keypress publisher from gazebo itself, so i activated it, andddd nothing also.
+
+i kept looking until i found that yeah i need to activate this plugin but + defining  the keys myself in the world.sdf, so i defined them, and defined the velocity, and add a ideal state button to cancel all the forces, anddd it worked very well. 
+
+like that 😂
+
+<img src="https://cdn.hackclub.com/01a172b2-3e77-7076-afc1-2105b803ec40/wall-e_spinning.gif" alt="wall-e_spinning.gif" width="400" height="400">
+
+and yeah he was moveing so quick with a high speed. So, i reduced it a bit.
+
+I also edited the robot position in its place 'cause it was shitted in the X axis, i needed to edit the joints location and the visual and the collsion and the inertial location. 
+
+after that, i also check the camera, and i found that it is pointing to the left of the robot, and it is not pointing towards the robot.
+
+so i edited its joint and collision and visual rotation 
+
+And that's it for this session i think.
+
+### Recording links:
+- [Quick edits in the Fusion export · 13m · Oct 24, 2026](https://lapse.hackclub.com/timelapse/6kCyoj8qnzyj)
