@@ -864,6 +864,22 @@ but that's all for this session.
 ### Recording links:
 - [Quick Wall-E 3D & Webots · 5h 9m · Oct 16, 2026](https://lapse.hackclub.com/timelapse/XI-t51KsoxDi)
 
+## Day 14 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 26/10/2026
+- **Total hours spent:** 7.53
+
+### Entry:
+
+the top lid was actually eaiser however i needed to make sure its suitable for the neck and how to connecet it to the body. the sides however it what was also had functions and some details.for the opposite side, i worked with mirroring rather than drawing all the matching geometry again.
+the upper section, where there are several rectangular shapes, narrow edges, and upright supports. I built up these features gradually, starting with the larger shapes and then adding the smaller divisions. 
+<img src="https://cdn.hackclub.com/01a175c8-1ca1-7fe1-91f3-6a300425ae39/Screenshot_2026-10-26_032341.png" alt="Screenshot_2026-10-26_032341.png" width="1280" height="1280">
+
+### Recording links:
+- [Body Finish · 7h 54m · Oct 25, 2026](https://lapse.hackclub.com/timelapse/eN-Il1KOF_49)
+
+------------------------------
+
 ## Day 15 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 17/10/2026
