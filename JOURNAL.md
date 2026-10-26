@@ -762,6 +762,25 @@ soo yeah see ya.
 ### Recording links:
 - [Finished the PCB · 1h 3m · Oct 11, 2026](https://lapse.hackclub.com/timelapse/OsPnq9cUdWzp)
 
+## Day 13 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 25/10/2026
+- **Total hours spent:** 2.47
+
+### Entry:
+
+this time i worked on the body of walles the body  consists of six main parts, compared to the neck and eyes its easier to build however i want to add more details to make it unique i started with the front panel i wanted to add details because its the main seen part i made this into two parts one that holds the vent that opens and closes and the other part vent itself the vent was made with a detail of three lines i also added the walle lettering near the bottom.
+<img src="https://cdn.hackclub.com/01a175c6-b4b9-7bb0-a492-0225caf1c0b3/Screenshot_2026-10-26_041446.png" alt="Screenshot_2026-10-26_041446.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a175c6-b4b9-7bb0-a492-0225caf1c0b3/Screenshot_2026-10-26_041446.png" alt="Screenshot_2026-10-26_041446.png" width="1280" height="1280">
+
+<img src="https://cdn.hackclub.com/01a175c7-7f30-7244-8c9d-db7ba1a519fe/Screenshot_2026-10-26_041500.png" alt="Screenshot_2026-10-26_041500.png" width="1280" height="1280">
+
+### Recording links:
+- [body start · 2h 47m · Oct 24, 2026](https://lapse.hackclub.com/timelapse/yMfj59_TZxQg)
+
+------------------------------
+
 ## Day 14 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 16/10/2026
