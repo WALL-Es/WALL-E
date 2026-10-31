@@ -78,6 +78,10 @@
       ],
       "drc_exclusions": [
         [
+          "unconnected_items|128799500|133841362|F.Cu|4|cb80eccf-d6a8-4465-8a0f-e22340109143|cb80eccf-d6a8-4465-8a0f-e22340109143",
+          "Gonna be connected with a single-hoping wire, using the through holes"
+        ],
+        [
           "unconnected_items|22640000|114730000|F.Cu|4|8e174115-6c6d-4233-843e-497b140ee21d|1e9921a4-7029-44a0-908e-19bc8cef40c3",
           ""
         ],
