@@ -2374,14 +2374,15 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 129.54 104.14 0)
+		(property "Value" "+3.3VCo"
+			(at 132.08 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
