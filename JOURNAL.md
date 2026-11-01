@@ -1131,3 +1131,56 @@ THX for reading 🥰.
 
 ### Recording links:
 - [Splited the Board · Oct 30, 2026](https://lapse.hackclub.com/timelapse/Gim0bZZkIStb)
+
+## Day 19 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 31/10/2026
+- **Total hours spent:** 5.4 hours
+
+### Entry:
+
+UGh, continuing from the last sesssion, well this time. i need to talk about kinda fewer things.
+
+before we start, i forgot to add the boards pic while they are inside wall-e's body as a test.
+
+<img src="https://cdn.hackclub.com/01a19720-ebf7-7ed2-a620-8daaf1fd7297/pasted-image-0-d4c385dc1a9086a0cb858b14b3707cc55a9bfae170c056820b0f2e2d9948718b.png" alt="pasted-image-0.png" width="630" height="665">
+
+Let me write the points quickly: 
+
+1. Firstly connecting the two boards with each other
+    1. Editing the edge cuttes to match the connecting pieces
+    2. Adding cutting holes so it can be easier to cut the two boards from each other. 
+        1. making a new one 'cause there was nothing like that.
+2. Working on enhancing the simulation and the plugins iam using.
+    1. Switching from Diff driver system plugin to teleop plugin
+    2. Trying to add an external building to the simulation which was a glb file
+
+Well firstly talking about the PCB.
+
+Well, after finishing the last session, and finishing the splitting proccess. The boards needed to be connected with each other just like using hangers or some sort of temp pieces, as i need the PCB to be printed using just one Garber file, so doing this is super efficient.
+
+So, i started editing the Edge cuttes to have the extra temp piece which will hold the two boards with each others. 
+
+and also i wanted to add some holes so it can be easier when breaking from each others, but i didn't find a ready footprint for that, so yeah i did my quick one.
+
+And this is how the temp pieces looks like now.
+
+<img src="https://cdn.hackclub.com/01a19721-b742-7318-ae40-edc46419fb56/pasted-image-0-9d88fc292cfede662b6671a173ed176d8176690a246e20072834cb2233e77359.png" alt="pasted-image-0.png" width="299" height="524">
+
+And this is the whole board which will be ready to export as a garber from the gerber extension.
+
+<img src="https://cdn.hackclub.com/01a19722-1929-77e5-ba6e-152208cd9511/pasted-image-0-bc4d43c6fe2ab397a29da11e2a3bd93a377ae408fd600899ae6ff04778f86230.png" alt="pasted-image-0.png" width="964" height="502">
+
+After finishing the PCB, i went straight to the simulation again, well the last time i did work on the wall-e movement, well ok i did fix the movement speed, but the keyboard controls were kinda sick. like gazebo weren't detecting the key release event. that made me to make a separate key to stop wall-e.
+
+So after searching, i found that i can use another plugin called Teleop, instead of Diff drive system. This plugin detects the keys automaticly and detects the release events of the keys. The only problem was with the speed. which tbh i left for the next session as wantted to try adding a GLB file to the world quickly.
+
+I tried a lot using the mesh tag and the uri tag to add a glb file to the sdf world file. 
+
+well, it took me some debuggings but unfortunatly it didn't go well till now, tbh i had an important thing to do, so i just ended this session on that content. 
+
+THx again for reading ts 😭🙏.
+OMG WAIT THE NEXT WEEK IS THE LAST ONE. YAYAYAYYAYAAYAYA
+
+### Recording links:
+- [Finialized the PCB & connected them with Cut holes · Oct 31, 2026](https://lapse.hackclub.com/timelapse/PEAbtNlRzgdp)
