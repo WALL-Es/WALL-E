@@ -1049,3 +1049,85 @@ And that's it for this session i think.
 
 ### Recording links:
 - [Quick edits in the Fusion export · 13m · Oct 24, 2026](https://lapse.hackclub.com/timelapse/6kCyoj8qnzyj)
+
+## Day 18 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 30/10/2026
+- **Total hours spent:** 5.8 hours
+
+### Entry:
+
+For this session, i did make a lot of things, ugh it was hard at the first, actually, i saw a big problem at first.
+
+Well, for this week, I was planning to work on this week about integerating the PCB into the 3D design that my teammate was working on. 
+
+So, i got it from him as a step file and started importing it into fusion, and when i did, the freaking sudden issue appeared. 
+
+Bro, WTF the freaking Board is bigger already from the whole wall-e itself. 
+
+<img src="https://cdn.hackclub.com/01a196f2-e8e1-7133-9a0b-70c8fa7dbf24/pasted-image-0-a5eca63688fa1c84e843791f58a1c3181529549aefd875a7e9c721557ae073f2.png" alt="pasted-image-0.png" width="758" height="502">
+
+OMG, we calculated the measurements wrong when we worked from the beginning. UGH, well we had two choices, whether the my teammate edit or scale the whole wall-E and double the dimensions, or i must split the board into two separate boards and remove the screen from the board and only make a connector for it, so the board itself can fit into the wall-e body itself.
+
+SOOOO, the easiest thing to do was to split the board into two separate boards. which is ugh my part. :C
+
+So, here we go again to the kicad editor. Well tbh i missed the Kicad editor so much.
+
+so, in this journal entry, ima write the points i worked on to split the board:
+
+1. Started with drawing the split line in the edge cuttes layer.
+2. I started breaking each trace i can see which is connected between the two boards.
+3. Started drawing double lines for each board. (like a line for each board to be splitted)
+4. Started collecting the traces beside each other. 
+    1. 16 trace by 2 connectors
+5. Added the connectors to the Schematic
+6. changed the labels for all the components on the power board.
+7. Traced the connectors
+8. Added a GND through hole so they can be connected with a thick wire.
+9. Switched to the other board (logic board)
+10. Trimed a big portion of it. 
+11. Added a connector for the new TFT.
+12. Added the new connectors to connect it with the power board.
+13. Finished it. 
+
+
+WOW, that's huge. let me brick it down.
+
+First talking about the how did i split the board as a edge cut.
+
+Well, tbh i don't know a direct way in kicad that can make me split the drawn lines of the edge cuttes layer, So, firstly i drew a single line to determine where will i trim. 
+
+And then started trimming all the traces using the break trace tool, and after finishing it, i drew a second edge cut line to make each one an edge for each board. 
+
+after that, i started collecting the wires new each others, so i can connect them easily to the connector iam planning to add. But wait, that actually can be a great idea, collecting the traces beside each other first before even adding the connector to the schematic is a brilliant idea, in that way, i will adabt the schematic on the PCB not the opposite, so i won't be forced to retrace many traces, like jumping them over other traces so they can reach the pad and so on. 
+
+And yeah it was super easy to do it like that. I started counting how many wires i'll need to connect to the other board, i found that they are 16 traces containning two power traces + the GND, that means i have 17 trace to connect between the boards, So i decided to collect all the data transfer wires with each other along the 3.3v and the 5v nomrally through the connectors, but i made the GND to be connected using a through hole and a thick wire, 'cause i felt that the GND needs more cation. 
+
+After finishing the first board, which was fully about the power management, I switched to the logic board, which has the raspi and the esp and any other things, one sensor was in the power board, which is the IMU, 'cause i just don't want to change its place and bluh bluh bluh. 
+
+Talking now about the logic board, well this board needed to be shrinked as much as i can, 'cause it was talking so much space out of nothing, or actually 'cause of the TFT, that is because i was planning to make the board under the tft place in wall-e, buttt well the board as you know was super big, so i needed to shirnk and change the location of the boards. 
+
+And because of that, i needed to make the TFT screen floating, or free from the Board, just like the other sensors. 
+
+So, yeah i made a connector for it, and yeah also removed the touch capablitiy, as i needed to change the display with something more smaller than the 2.8 inch TFT i got, so i searched about a 1.77 inch one, but it was without touch, but it is a color tft so it is way better than nothing or the regular oled. 
+
+after that, looking to the board now, well the board as you know needs to be shrinked, so yeap, the Big TFT occubation is now free, and i can trim it, so i moved any other commponent a lil near to the other components on the right, and then i did cut the big place and added the other two connectors to the new right edge line, and then i connected all the traces just like the power board, and voila, i did split the board successfully. 
+
+After that i needed a 3D for each board separatly, so i duplicated the the PCB file, and named each one for each board, and then in each file i only left the board of that file exists and deleted the other one, and yeah i exported the 3D from there too. 
+
+Here are some images for the PCB and the 3D:
+
+<img src="https://cdn.hackclub.com/01a196f6-e522-725f-b0c8-63323edeaa0a/pasted-image-0-782bc7e3d1a14c451a51f01317ab6a657fe1573c01c8b23f8466314fd57da2fa.png" alt="pasted-image-0.png" width="501" height="430">
+
+<img src="https://cdn.hackclub.com/01a196f8-41b6-7c1f-955b-0191fb818f1d/pasted-image-0-32b40ce4c5b0a208ed9e8d310737c7463e1adee53201575d73b663bb9e75da5f.png" alt="pasted-image-0.png" width="390" height="432">
+
+<img src="https://cdn.hackclub.com/01a196f7-8d98-7dbe-94c8-4e50a4fb4973/pasted-image-0-37bd358467570609bd8ccd3f054b0851c2f96bfe8983b53e9f092ac67b923cd7.png" alt="pasted-image-0.png" width="513" height="399">
+
+<img src="https://cdn.hackclub.com/01a196f8-c8e5-7648-bd76-a1918d967db6/pasted-image-0-ee62c9738a8e8c7409999a1d89daa72253324565edd5471c47a250a7bcddd341.png" alt="pasted-image-0.png" width="420" height="430">
+
+And that's it i finished it, i need in the next session to make the garber files, and that means i need to like connect the two boards but with cut holes so i can like break it when it finishes production. Besides more working on the simulation, which I am setting up to successfully import the finalized Wall-E 3D and control it. 
+
+THX for reading 🥰.
+
+### Recording links:
+- [Splited the Board · Oct 30, 2026](https://lapse.hackclub.com/timelapse/Gim0bZZkIStb)
