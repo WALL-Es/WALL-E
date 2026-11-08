@@ -1017,6 +1017,27 @@ photo of the simulation right now.
 ### Recording links:
 - [Figured out sensors & added them · 1h 18m · Oct 23, 2026](https://lapse.hackclub.com/timelapse/YBACHSmTm7WM)
 
+## Day 16 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 6/11/2026
+- **Total hours spent:** 1.5
+
+### Entry:
+
+this time i moved on to two parts of the wheel mechanism. i started by going back to the reference video and looking at how the parts connect because there are quite a few pieces involved in the tracks. i focused on the holder first and started sketching its shape in solidworks.
+
+i extruded the main shape then worked on the circular mounting points and the holes through them. the part has several ends connected by a middle section so i kept rotating it and zooming in to work on the different faces. after getting the main shape together i added more details, including the rectangular opening and smaller cuts around the middle. this took most of the session actually, there were more details in this holder than it first seemed.
+
+after that i started a separate part for the second support. i sketched the upper section with its sloped sides and rounded top, then added the circular feature near the top. for the lower section i made a wider base with rounded corners and two matching cutouts. towards the end i was still adjusting the sketch and adding details to this section, so there is more to do before putting these parts together with the wheels.
+<img src="https://cdn.hackclub.com/01a1bd7f-1919-7e07-b8e8-ae29a8994189/Screenshot_2026-11-09_012907-beb8287a35c0072fb2bb66bb8842cd8a5a1f02a40d411e2dbcf59fd5d096343a.png" alt="Screenshot_2026-11-09_012907.png" width="475" height="382">
+
+<img src="https://cdn.hackclub.com/01a1bd7f-39b5-75a4-a30b-0d6d4364b6cb/Screenshot_2026-11-09_012935-b3aa2832f8e23d18acb1cf9f951c4a53f6048b111f7bc82a60724f0a03725d2b.png" alt="Screenshot_2026-11-09_012935.png" width="629" height="344">
+
+### Recording links:
+- [TWO parts of the wheels · 1h 50m · Nov 6, 2026](https://lapse.hackclub.com/timelapse/oOqIuqVqWxgN)
+
+------------------------------
+
 ## Day 17 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 24/10/2026
