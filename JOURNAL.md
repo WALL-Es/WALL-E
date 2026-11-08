@@ -1096,6 +1096,27 @@ And that's it for this session i think.
 ### Recording links:
 - [Quick edits in the Fusion export · 13m · Oct 24, 2026](https://lapse.hackclub.com/timelapse/6kCyoj8qnzyj)
 
+## Day 17 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 7/11/2026
+- **Total hours spent:** 1.35
+
+### Entry:
+
+this session i continued working on the wheel mechanism, starting with the connecting piece for the holder. i worked on its cylindrical shape and used sketches on different planes with the loft tool to make the transition between the sections. i also went back to the figma and checked some solidworks tutorials while working on it.
+
+after that i inserted the part into the wheel assembly and started adding mates to position it inside the holder. i kept rotating the assembly and switching between views to select the faces and line up the parts. its starting to look more like an actual mechanism now instead of separate pieces.
+
+then i moved on to the first gear. i worked on the tooth shape and repeated it around the center, including using mirroring while building the sketch rather than drawing every tooth separately. once i had the full outline and the center hole i extruded it to give the gear its thickness. by the end of the session i had the first gear modeled, although i still need to bring it together with the remaining parts.
+<img src="https://cdn.hackclub.com/01a1bd80-cc8e-7a0f-b82e-0061bdcf7832/Screenshot_2026-11-09_013123-50176ea44b3928b8bd15c51dd890bb7a1b735243ff48ecb4d2db7f2dcad3fe27.png" alt="Screenshot_2026-11-09_013123.png" width="829" height="696">
+
+<img src="https://cdn.hackclub.com/01a1bd80-e4ad-7a3f-807a-b10cbbee5fb5/Screenshot_2026-11-09_013111-63c09905bf24d998ed6828ab443ea13707c6108e5bb1405ac3cdc445d87b4953.png" alt="Screenshot_2026-11-09_013111.png" width="829" height="547">
+
+### Recording links:
+- [gear one and holder · 1h 35m · Nov 7, 2026](https://lapse.hackclub.com/timelapse/U6jbKQUKjC6U)
+
+------------------------------
+
 ## Day 18 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 30/10/2026
