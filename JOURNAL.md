@@ -1276,3 +1276,26 @@ OMG WAIT THE NEXT WEEK IS THE LAST ONE. YAYAYAYYAYAAYAYA
 
 ### Recording links:
 - [Finialized the PCB & connected them with Cut holes · Oct 31, 2026](https://lapse.hackclub.com/timelapse/PEAbtNlRzgdp)
+
+## Day 19 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 9/11/2026
+- **Total hours spent:** 3.27
+
+### Entry:
+
+this session i worked on bringing the electronics into the 3d model and finishing more of the appearance details. i started by going around the full assembly and checking it from different views, then opened the body separately to work on the inside.
+
+i imported the logic board and power board STEP files and started positioning them in the body assembly. i moved the top out of the way so i could see inside and added mates to line up the boards. having the actual pcb models there made it much easier to see how much space the electronics take instead of just looking at an empty body.
+
+after that i went back to the front parts and worked on their appearances. i changed the colors of individual faces, including the WALL-E lettering near the bottom, the front panel and the smaller details around the grille. this involved switching between the separate parts and the full assembly to see how the changes looked together.
+
+towards the end i returned to the full model and checked the updated appearance. i also sent screenshots to Nader so he could see where the design had reached. its nice to finally have the electronics included in the assembly too, wall-e is looking much closer to what we planned at the beginning.
+<img src="https://cdn.hackclub.com/01a1bd83-5bd2-7bba-9a2f-3aa487df1691/Screenshot_2026-11-08_173641-f1b8f231c5323dcd210ba31f2d327f267fd7898abdf6bd11e3582708b0afcf56.png" alt="Screenshot_2026-11-08_173641.png" width="1198" height="1041">
+
+<img src="https://cdn.hackclub.com/01a1bd83-74f9-7d92-bfbb-fa33717296a5/Screenshot_2026-11-08_171752-747dfb343a7ad6c5c6a13721b792a1b5d5e3c225f4d06fc943833d293529f4ab.png" alt="Screenshot_2026-11-08_171752.png" width="875" height="823">
+
+### Recording links:
+- [pcb finish · 3h 27m · Nov 8, 2026](https://lapse.hackclub.com/timelapse/mxBYMUgKDtrP)
+
+------------------------------
