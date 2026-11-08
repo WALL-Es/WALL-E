@@ -919,6 +919,31 @@ but it was with no floor, and the robot with no colors, and it was falling infin
 ### Recording links:
 - [Exported a well made URDF · 2h 23m · Oct 17, 2026](https://lapse.hackclub.com/timelapse/T5GN98pbh07Y)
 
+## Day 15 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 2/11/2026
+- **Total hours spent:** 10.05
+
+### Entry:
+
+this was a really long session, i worked on the hands, more of the arm connections and the body assembly, then started making the track pieces too. i began with the fingers, sketching their shapes and extruding them, then adding the rounded connection ends and the holes through them. i made the left and right fingers separately and worked on the middle finger as well.
+
+after that i brought the fingers together with their connector in an assembly. i used concentric mates to line up the circular holes and coincident mates to position the parts beside each other. finally seeing the fingers together as a hand made their connections much easier to understand compared to looking at each part alone.
+
+i also went back to the body assembly and worked on lining up its panels and lid. selecting the faces inside the body meant a lot of rotating and zooming in, especially when several parts were covering each other. i used the transparent view while adding some of the mates so i could see the connections inside.
+
+for the arm connectors i kept the reference model open beside my own parts and compared the geometry while drawing. i worked on the forked connection with the circular holes, then another rounded connector with a square opening. these needed several extrusions and cuts to build up their shapes, and i kept checking the reference video to understand how they connect.
+
+towards the end i moved on to the tracks. i modeled the longer rectangular link with its openings and connecting tabs, then the smaller H-shaped piece that joins the links together. after making both parts i inserted copies into a separate assembly and added mates to connect them. i finished with a short section of track assembled, which gives me a start for building the rest around the wheels.
+<img src="https://cdn.hackclub.com/01a1bd7c-0282-7c82-a645-d2512ed348ca/Screenshot_2026-11-09_012549-62726f97154773cf929da63e1cedb5e150cfa546ba4f304831485d8032405846.png" alt="Screenshot_2026-11-09_012549.png" width="928" height="600">
+
+<img src="https://cdn.hackclub.com/01a1bd7c-1dd9-7155-93c6-58336fe68567/Screenshot_2026-11-09_012604-c3f7b642d2a0107f377d74369860f426e883f8df0bcdb15c6497ef237af84720.png" alt="Screenshot_2026-11-09_012604.png" width="899" height="543">
+
+### Recording links:
+- [Arms and assembley finish · 10h 5m · Nov 1, 2026](https://lapse.hackclub.com/timelapse/kP0kA2WdMZmY)
+
+------------------------------
+
 ## Day 16 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 23/10/2026
