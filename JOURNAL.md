@@ -1199,6 +1199,31 @@ THX for reading 🥰.
 ### Recording links:
 - [Splited the Board · Oct 30, 2026](https://lapse.hackclub.com/timelapse/Gim0bZZkIStb)
 
+## Day 18 [![@ZIZO932](https://img.shields.io/badge/@ZIZO932-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/ZIZO932)
+
+- **Date:** 8/11/2026
+- **Total hours spent:** 5.04
+
+### Entry:
+
+this was a long session actually, i continued with the wheel parts and brought them together with the rest of wall-e. i started with the wheel covers, adding the circular sections and the details between the center and the outer edge. after that i inserted them into the wheel assembly and added mates to line them up with the connecting pieces.
+
+i kept adding the remaining wheels and their covers around the holder. there were quite a few repeated parts so a lot of this was inserting them, selecting the correct faces and positioning each one. seeing them together made the shape of the wheel mechanism much clearer compared to when i only had the holder.
+
+then i worked on the track links and connected several of them in a separate assembly. i wanted to see how the individual pieces join together before building up the rest of the track. i had a small section connected, although i didnt have the whole loop around the wheels in the final assembly yet.
+
+after that i worked on the motor mounting area. i checked reference images and dimensions while modeling the parts, then went back to the main holder to adjust its mounting features. i kept switching between the individual parts and the assembly while working on their connections.
+
+finally i worked on the other wheel assembly and brought both sides into the full wall-e model with the body, arms, neck and eyes. FINALLYYY i could see all these parts together. towards the end i also worked on the appearances, giving the body and arms a yellow color and making the wheel assemblies darker. there are still details to finish, especially the tracks, but its amazing to finally see wall-e standing together after working on the separate parts for so long.
+<img src="https://cdn.hackclub.com/01a1bd82-1aaa-78dd-888a-bba9e4e6bc28/Screenshot_2026-11-08_004453-604262596cfb0bb1d63d40a41e4ac56fb3d6a12d5338020e20b9bddcdee903e4.png" alt="Screenshot_2026-11-08_004453.png" width="1280" height="819">
+
+<img src="https://cdn.hackclub.com/01a1bd82-912c-7a70-aadd-8f2a7626d39c/Screenshot_2026-11-08_042747-7c86d8bc00756f45b474ac9f23eb8e04af6077b4282ad2e6ea8e068aa3990b91.png" alt="Screenshot_2026-11-08_042747.png" width="1043" height="877">
+
+### Recording links:
+- [full design finish · 5h 4m · Nov 7, 2026](https://lapse.hackclub.com/timelapse/JZT2nmZUOIPD)
+
+------------------------------
+
 ## Day 19 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** 31/10/2026
