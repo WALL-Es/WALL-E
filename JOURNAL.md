@@ -1299,3 +1299,106 @@ towards the end i returned to the full model and checked the updated appearance.
 - [pcb finish · 3h 27m · Nov 8, 2026](https://lapse.hackclub.com/timelapse/mxBYMUgKDtrP)
 
 ------------------------------
+
+## Day 20 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** All the final week
+- **Total hours spent:** Total 19 hours but don't take what i write here anyway even above
+
+### Entry:
+
+(Well look I am very sorry that I am writing that all in one entry but I really need to finish quickly 😭, Hope you liked the project and the journaling so far.)
+
+Well, OMG bro this is the last week, YAYAYYAYAYAYAY, we nailed it :)
+
+gonna write the points like everytime and then gonna talk with details, i really hope this technique helped with reviewing and also good as a real journal for my journey. 
+
+Well, this week i was working on exporting the full CAD design to ROS2, TBH ts was a real mess, since it needs a specific organizing for the joints and the axies and so on. 
+
+Well, now listing the points:
+
+1. Importing the current working things into fusion.
+2. omg wow fusion doesn't import the joints and the mates.
+3. installed the full solidworks to work with.
+4. searched about plugins that i can use. 
+5. installed one and tried it
+5. saw that it is not working because of non-organized joints (after exporting a trail export)
+6. figuring out what kind of organizing it needs.
+7. found a github document, and a vid.
+8. Quickly read the document, and watched the vid (watched without lapseing it)
+9.  Started seeing how to fix the mates and the joints. (using axises and reference centeral points for each joint)
+10. fixed the body
+11. fixed the eyes
+12. fixed the arms.
+13. edited the URDF export configuration.
+14. Exported again and it worked, but needs some fixes in the sdf world, and robot.sdf files. 
+15. Got the Full 3D cad
+16. Exported the URDf config to apply on the new version.
+17. Added joints to the Wheels.
+18. Exported the Final URDF export.
+19. Started working back on the simulation itself.
+20. Got it back to work.
+21. Tried to readd the Teleop plugin (after debugging and fixing the effort&velocity issue)
+22. Adding colors to the URDF file.
+23. Convert the URDF to SDF robot file.
+24. import it into gazebo.
+25. Edit the Wheels rotation.
+26. Checked the Teleop plugin, and it worked super very well.
+27. Added other joints movement with keyboard.
+28. Wrote the BOM.
+29. Wrote the README.
+
+
+
+Ok look, broo iam writing all of this before the deadline with two hours :c.
+
+So iam gonna write a quick paragraph about each point, and then gonna put each paragraph in its journal entry. (So sorry if that will be super quick)
+
+
+I got a 90% finished 3D cad from Ziad to work on and try to export, and then i needed to import into fusion, but it imported without any mates or joints, and that was super hell. 
+
+SOO, i needed to install the full Solidworks so i can import its native files so it can read the mates and the joints, which after that i will be able to adapt them on the URDF export. and of course found a plugin and installed it and etc. 
+
+And bluh bluh i tried the plugin but it didn't export 'cause the joints were non-organized, so i reorganized the joints and figured out how to use it after watching a vid and reading a docs (without lapsing them).
+
+Welll, all of that is in my lapse so i just gonna say that i fixed all the joints of the body parts and the eyes and arms etc. 
+
+and after that i exported a succussful export YAYAY, but lol the export is for ROS1 not 2, but i found a python script that convert it to ROS2, i tried it. it worked a lil, but it needed me to add some empty files gazebo was searching for them.
+
+After that, Ziad gave me the full 3D design with the wheels, So i got it, and opened it, and instead of doing all this stuff again, i just got the CSV file of the URDF plugin configuration and imported it, and just added the axies and the coordinates again. and it worked, after that i added more links and joints for the 4 wheels, and the motor holder.
+
+After that, i re-exported the full working Gazebo simulation, and ayayyay, now i will work on the motion and the movement themselves.
+
+Well, this part was just about trying many values until i reach the right one, it is like changing the color of something and compile to see it and then change it a lil bit and then recompile ......
+
+So, yeah i did sometthing like that, first for the colors of the 3D model, i needed to change them manually, but fortunatily i had an extension that let's me see URDF file in VS code, so i just was changing values quicker than compile the whole gazebo simulation. 
+
+After finishing the colors, i converted the URDF file to an SDF file, 'cause gazebo loves it more. i did that with simply a gazebo command that converts it already. And yeah it worked.
+
+After changing the colors, i started also to change the rotation of the wheels holders 'cause they were kinda rotated more than needed, and i fixed them with the same technique as above, but this time i was recompiling each time. 
+
+And after that, i just readded the Teleop pluging to the wheels, and fixed a velocity and effort values issue in the wheels so the Teleop can work with them. and it worked very great. (I have very cool vids but ig i will add them in the very bottom). 
+
+Wellll, the last thing, i wanted to add keyboard keys that controls some of the joints in the simulation, So i used a plugin called jointscontroller ig, don't rememeber tbh, but it is a plugin that takes a position or a rotation and sets the joint to it, so i made two keys for each joint, each key sets the joint to nearly its maximum and minimum (like key for maximum rotation, and key for minimum rotation.)
+
+and TBH, it was a repeated job, like a very long repeated job, that i just copy and paste the code and change some values, So tbh yeah i just let the AI do it quickly as it is just a repeated job. And it worked very well tbh, I am gonna attach a vid for it down there and in the README as the demo vid, 'cause the simulation can only be ran if you have ROS and gazebo installed. 
+
+And after thattt allllllll, i wrote the BOM in a markdown table by researching for all the components with their links, and estimated total price. 
+
+And BROOOOOOOOOOOOOOOOOOOO, OMGGGGGGGGGGGGGGGG, we really finished that all 😭.
+
+I REALLY LOVE YOU REVIEWER FOR READING THAT ALL + MY GREAT TEAMMATE.
+
+Well, I am not able to add vids in the journal so I am gonna link you the folder in the repo.
+
+You will find them [Here](https://github.com/WALL-Es/WALL-E/tree/main/Images/Journal/Videos)
+
+Wall-E Loves you so much ❤️:
+
+<img src="https://cdn.hackclub.com/01a1be5c-5edf-7411-b3d9-cdbc7a8e2c89/pasted-image-0-6cdbba5e375944b685ee0c76cffd8385cf30934bcddc494997e11ff4d5785e96.png" alt="pasted-image-0.png" width="477" height="449">
+
+### Recording links:
+- [Exported the new big wall-e URDF · 3h 2m · Nov 3, 2026](https://lapse.hackclub.com/timelapse/PdtSfNvFxMYJ)
+- [Figured out how to fully use the exporter · 1h 7m · Nov 5, 2026](https://lapse.hackclub.com/timelapse/LpelV_mUWyTR)
+- [Fixed the URDF joints export · 2h 11m · Nov 6, 2026](https://lapse.hackclub.com/timelapse/eLGCm11MGzg9)
+- [Last Export & Tidying up the BOM · 2h 5m · Nov 8, 2026](https://lapse.hackclub.com/timelapse/Ro-2oAZ8ARZb)
