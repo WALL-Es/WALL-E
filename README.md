@@ -1,5 +1,5 @@
 # WALL-E
-A Full size Wall-E Clone from the movie WALL-E.
+A Full size Wall-E Clone from the movie WALL-E. With a ROS2 Simulation + 
 
 
 
