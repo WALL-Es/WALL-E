@@ -38,7 +38,7 @@ A Full size Wall-E Clone from the movie WALL-E. With a ROS2+Gazebo Simulation. W
 
 ### Simulation Demo:
 
-
+https://github.com/user-attachments/assets/cbfe52af-3437-4783-bf1c-e89359c1bae6
 
 ## How to Build:
 
