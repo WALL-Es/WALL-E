@@ -9,4 +9,8 @@ A Full size Wall-E Clone from the movie WALL-E.
 3. Various sensors to make it autonomous.
 4. Emulating the full motion of the real WALL-E.
 
-### Check our [Journal](JOURNAL.md) for the Progress.
+## Photos:
+
+
+## How to Build:
+
