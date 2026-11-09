@@ -1303,7 +1303,7 @@ towards the end i returned to the full model and checked the updated appearance.
 ## Day 20 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
 
 - **Date:** All the final week
-- **Total hours spent:** 
+- **Total hours spent:** Total 19 hours but don't take what i write here anyway even above
 
 ### Entry:
 
