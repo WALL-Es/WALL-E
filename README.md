@@ -67,6 +67,10 @@ https://github.com/user-attachments/assets/cbfe52af-3437-4783-bf1c-e89359c1bae6
 8. That's it, you will see gazebo launching and with your new changes.
 9. Enjoyyy ❤️
 
+### Credits:
+The WALL-E reference Model: [@huyvector](https://www.huyvector.org/robots-kinetic/full-3d-wall-e-ai)
+
+
 # Build with ❤️ by @Nadoooor & @ZIZO932
 
 
