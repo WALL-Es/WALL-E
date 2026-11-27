@@ -36,6 +36,12 @@ A Full size Wall-E Clone from the movie WALL-E. With a ROS2+Gazebo Simulation. W
 
 ![alt text](Images/F-3D.png)
 
+### Our Zine-Page:
+
+<img src="https://cdn.hackclub.com/01a21eaa-955c-7ca9-a459-6fce6153bcdf/Wall-E_Zine.png" width="500" alt="Screenshot_2026-11-08_173641.png">
+
+#### You can also see the [PDF](Images/Wall-E_Zine.pdf)
+
 ### Simulation Demo:
 
 https://github.com/user-attachments/assets/cbfe52af-3437-4783-bf1c-e89359c1bae6
