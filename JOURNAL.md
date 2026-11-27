@@ -1402,3 +1402,80 @@ Wall-E Loves you so much ❤️:
 - [Figured out how to fully use the exporter · 1h 7m · Nov 5, 2026](https://lapse.hackclub.com/timelapse/LpelV_mUWyTR)
 - [Fixed the URDF joints export · 2h 11m · Nov 6, 2026](https://lapse.hackclub.com/timelapse/eLGCm11MGzg9)
 - [Last Export & Tidying up the BOM · 2h 5m · Nov 8, 2026](https://lapse.hackclub.com/timelapse/Ro-2oAZ8ARZb)
+
+## Day 21 [![@Nadoooor](https://img.shields.io/badge/@Nadoooor-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Nadoooor)
+
+- **Date:** 27/11/2026
+- **Total hours spent:** 4.6 hours + journaling and README editing time (approx. 5.3 hours after manually deducting the stupidity of Hackatime)
+
+### Entry:
+
+BRooo, why all of that freaking deflation :c
+
+
+Well, i think i knew why, hackatime for some reason when it sync my lapses, it adds some extra ghosted minutes, this is so stupid dk why.
+
+
+for some reason this lapsed session, is only 4 hours and 37 minutes, but in hackatime it says 5 hours and 17 minutes, broo why there are 40 minutes added from the no where, any ways, for your knowledge this session were only 4 hours and 37 minutes + journaling and readme editing time, i hope i get deflated for only those 40 minutes. 
+
+
+well, now talking about the zine page i made for this marvelous project.
+
+
+I started with rendering some photos from solidworks, i opened it, and i needed just to edit the hands to be next to wall-e's body for just the render (that means i don't need to change the 3D in the repo), and then i tried to render using solidworks visualizer, but bro this thing is kinda shity on my laptop, it takes so much time to render a single photo, so i just exported to a step file, and switched to fusion.
+
+
+From fusion i started adding three joints, two for arms, and one for the eyes, soo i can be more free while adjusting his eyes and arms for the render photos. After that, i switched to the render tab, and started taking some pics. but first i switched to canva and made a new design in my old snakeboy zine page project. i just made a new page so i can take fonts and icons easily from the page above it.
+
+
+then i stared thinking, what to do in the background ??
+
+
+well, i found a great idea, bro i found this image online.
+
+
+<img src="https://cdn.hackclub.com/01a21eaa-de48-7b9d-9461-2f9f37dba034/image.png" alt="Screenshot_2026-11-08_173641.png" width="1198" height="1041">
+
+
+so i am thinking to remove their Wall-E and add ours with the same pos, so i took the pic, added it to canva, and croped it to match the zine dimensions, then i switched to fusion, started editing wall-e's eyes and his pos to look up to eva. After that, i rendered and placed it in the same place as the old wall-e but after removing the old wall-e. After that, i started noticing the differences, and i found two big differences. BROOOO, wall-e needs some lights with colors as the sky and the low sun, and also it needs some glassy eyes that reflects the lights. 
+
+
+So i started adding two balls in wall-e's eyes, and gave them glassy appearance and then i started adding lights and give them colors, and bro this is what i got.
+
+
+<img src="https://cdn.hackclub.com/01a21eab-a709-7434-afd5-f5bd9b0293f9/Seventh.png" alt="Screenshot_2026-11-08_173641.png" >
+
+
+<img src="https://cdn.hackclub.com/01a21eab-a7f1-77b2-b6dd-3e7f38a7fbc6/Forth.png" alt="Screenshot_2026-11-08_173641.png" >
+
+
+after that, i started working on the design itself, and i tried to take some styles from my old design, and changed the colors to match wall-e's colors, and bluh bluh bluh, well the design itself feels so weird to write its steps, so ig imma try to skip some things 'cause you already have my lapse for the whole design time. 
+
+
+After finding the perfect idea of replacing the original Wall-E with our CAD Wall-E, i felt that it is so perfect, but also it needs the other designs, well, i thinked of putting photos of the PCB, and the PCB 3D, and the schematic, and the Simulation, but whoh whoh whoh, this is to much and won't fit, so i got a great idea, it is to add just the PCB and the PCB 3D, but like they are splitted with each other, dk how to write about so just see it in the photo i will put here of the final zine.
+
+
+after that, i started making the QR code of the repo, and i tried to find a good generator not a generator that gives a link that can expire (this is so stupid), so i found an open-source generator and used it.
+
+
+After that, i added a floating window for the specs and worked on its appeaerance.
+
+
+And finally before starting adding the final touches, i started to place each window in some places to see the layouts and i got the perfect one. 
+
+
+After choosing the perfect one, i started adding my final touches, like i tried to move eva (which was in the background itself) with a great canva layer separation tool a lil down so the Wall-E name can breathe, and added the skating orphues and like changed some colors to finalize the specs windows with the specs inside it. 
+
+
+and after the final touches, here you go the final masterpiece: 
+
+
+<img src="https://cdn.hackclub.com/01a21eaa-955c-7ca9-a459-6fce6153bcdf/Wall-E_Zine.png" alt="Screenshot_2026-11-08_173641.png">
+
+
+And i hope i get approved quickly :c thanks so much for reviewing that massive project for real. ❤️
+
+
+### Recording links:
+- [Made a Zine Page for Wall-E · 4h 37m · Nov 27, 2026](https://lapse.hackclub.com/timelapse/fgMiOv_wGihu)
+
